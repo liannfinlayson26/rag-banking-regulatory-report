@@ -32,3 +32,6 @@ __pycache__/
 
 # Iterative prompt-engineering drafts (working notes, not part of the deliverable)
 prompt_*.md
+
+# Personal roadmap / working notes (not part of the deliverable)
+Roadmap.md
