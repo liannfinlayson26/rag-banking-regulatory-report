@@ -28,3 +28,6 @@ __pycache__/
 
 # Raw agent-session transcripts (build logs, not part of the deliverable)
 *-local-command-*.txt
+
+# Iterative prompt-engineering drafts (working notes, not part of the deliverable)
+prompt_*.md
