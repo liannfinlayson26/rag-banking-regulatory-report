@@ -1,0 +1,184 @@
+{
+  "dataset": "HSBC Pillar 3 Disclosures at 31 December 2025 — baseline stress test",
+  "pdf": "data/pillar3-2025.pdf",
+  "page_numbering_note": "All `pdf_page` values are ACTUAL PDF page numbers (1-based, as a PDF viewer's go-to-page shows). The document's own PRINTED page number = pdf_page - 1 throughout the extracted range (verified: PDF p19 shows printed '18', PDF p5 shows printed '4'). `printed_page` is given so a reader can confirm via the page footer. Front-matter pages (PDF 1-3) were not extracted; where a fact also lives there it is noted.",
+  "retrieval_corpus_pages_pdf": "4-27",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is HSBC's CET1 capital ratio as at 31 December 2025?",
+      "gold": "14.9% (unchanged vs 31 Dec 2024)",
+      "trap": "number-conflation: five quarter-end ratios sit in one row (14.9/14.5/14.6/14.7/14.9)",
+      "sources": [
+        {
+          "pdf_page": 5,
+          "printed_page": 4,
+          "where": "Highlights — 'ratio remained at 14.9%, unchanged from 31 December 2024'"
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": 5,
+          "where": "Table 1 (KM1/IFRS9-FL), row 5 'CET1', 31 Dec 2025 column"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was HSBC's CET1 capital (the $bn figure, not the ratio) at 31 Dec 2025?",
+      "gold": "$132.6bn",
+      "trap": "returns the ratio (14.9%), or a prior-period capital value",
+      "sources": [
+        {
+          "pdf_page": 5,
+          "printed_page": 4,
+          "where": "Highlights — 'CET1 ... capital was $132.6bn'"
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": 5,
+          "where": "Table 1 (KM1), row 1 'Common equity tier 1 (CET1) capital', 31 Dec 2025 = 132.6 ($bn)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is HSBC's leverage ratio, and did it rise or fall over 2025?",
+      "gold": "5.3%, DOWN from 5.6% at 31 Dec 2024",
+      "trap": "temporal: 'down from' phrasing may yield 5.6 as the current value",
+      "sources": [
+        {
+          "pdf_page": 5,
+          "printed_page": 4,
+          "where": "Highlights (leverage)"
+        },
+        {
+          "pdf_page": 22,
+          "printed_page": 21,
+          "where": "Leverage section narrative — 'Our leverage ratio was 5.3% at 31 December 2025 down from 5.6%'"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the combined RWA for market risk and counterparty credit risk at 31 Dec 2025?",
+      "gold": "38,490 + 42,380 = 80,870 $m (= $80.9bn); the 80,870 sum is computed, not printed",
+      "trap": "aggregation: returns one row, or the Total (888,647), or fabricates",
+      "sources": [
+        {
+          "pdf_page": 19,
+          "printed_page": 18,
+          "where": "Table 7 (OV1): market risk row 20 = 38,490 $m; counterparty credit risk row 6 = 42,380 $m (31 Dec 2025 RWAs column)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Is HSBC's reported CET1 ratio on a transitional or end-point basis?",
+      "gold": "Both the same — IFRS 9 transitional arrangements ended 1 Jan 2025 and CRR II grandfathering ended 28 Jun 2025, so capital figures are identical on both bases",
+      "trap": "basis/qualifier: ignores the caveat and just restates a number",
+      "sources": [
+        {
+          "pdf_page": 6,
+          "printed_page": 5,
+          "where": "Key Metrics preamble (above Table 1) — 'our capital figures are the same on both the transitional and end-point basis'"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What were HSBC's LCR and NSFR at 31 Dec 2025, and what is the HQLA amount?",
+      "gold": "LCR 137%, NSFR 143%, average HQLA $702bn",
+      "trap": "compound: silently drops one of the three parts",
+      "sources": [
+        {
+          "pdf_page": 6,
+          "printed_page": 5,
+          "where": "Table 1 (KM1): row 15 HQLA = 702.1 ($bn), row 17 LCR = 137 (%), row 20 NSFR = 143 (%)"
+        },
+        {
+          "pdf_page": 5,
+          "printed_page": 4,
+          "where": "Highlights (liquidity) — LCR/NSFR/HQLA"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What net CET1 impact did the Hang Seng Bank privatisation have, and when?",
+      "gold": "net 110 bps in January 2026 (day-one ~120 bps, partly offset by ~10 bps), based on the 31 Dec 2025 ratio",
+      "trap": "conflates the 110 / 120 / 10 bps figures",
+      "sources": [
+        {
+          "pdf_page": 5,
+          "printed_page": 4,
+          "where": "Highlights — 'net CET1 capital impact of 110 bps in January 2026 ... day one impact ...' (110/120/10 bps)"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What total capital charge does HSBC apply as a percentage of RWAs, and under which regulation?",
+      "gold": "8% of RWAs, set by Article 92(1) of CRR II",
+      "trap": "cross-reference: returns 8% without the Article reference (or returns the 20.5% total capital ratio instead of the 8% minimum charge)",
+      "sources": [
+        {
+          "pdf_page": 4,
+          "printed_page": 3,
+          "where": "Comparatives & references — 'minimum total capital charge set at 8% of risk-weighted assets (RWAs) by Article 92(1) of CRR II'"
+        },
+        {
+          "pdf_page": 7,
+          "printed_page": 6,
+          "where": "Article 92(1) breakdown — 'set out in Article 92(1) of CRR II ... CET1 at 4.5% of RWAs ...'"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is HSBC Holdings' total RWA, and in what currency?",
+      "gold": "$888,647m (= $888.6bn), US dollars",
+      "trap": "units: omits USD, or gives $bn without noting the source cells are $m",
+      "sources": [
+        {
+          "pdf_page": 19,
+          "printed_page": 18,
+          "where": "Table 7 (OV1), row 29 'Total' = 888,647 with ($m) units row (31 Dec 2025 RWAs column)"
+        },
+        {
+          "pdf_page": 16,
+          "printed_page": 15,
+          "where": "Table 6 (UK CC1) own-funds reconciliation references the same total RWA"
+        },
+        {
+          "pdf_page": 20,
+          "printed_page": 19,
+          "where": "'US dollar(s)' wording"
+        },
+        {
+          "pdf_page": 27,
+          "printed_page": 26,
+          "where": "'US dollar(s)' wording"
+        },
+        {
+          "pdf_page": 2,
+          "printed_page": 1,
+          "where": "[NOT EXTRACTED] front-matter reporting conventions / currency definition likely here"
+        }
+      ],
+      "grounding_note": "currency grounded by $-notation inference; definition out of corpus scope (PDF p2)"
+    },
+    {
+      "id": 10,
+      "question": "What is the operational risk RWA, and how much did it change from 2024?",
+      "gold": "120,716 $m vs 106,472 $m = increase of 14,244 $m (~+$14.2bn); the 14,244 delta is computed, not printed",
+      "trap": "aggregation/delta: returns one year, picks the wrong comparison column (30 Sep 2025 = 109,031), or miscomputes",
+      "sources": [
+        {
+          "pdf_page": 19,
+          "printed_page": 18,
+          "where": "Table 7 (OV1), operational risk row: 31 Dec 2025 = 120,716 $m; 31 Dec 2024 = 106,472 $m"
+        }
+      ]
+    }
+  ]
+}

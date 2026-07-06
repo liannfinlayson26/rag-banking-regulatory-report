@@ -1,0 +1,270 @@
+{
+  "page": 22,
+  "prose": "Our leverage ratio was 5.3% at 31 December 2025 down from 5.6% At 31 December 2025, our UK minimum leverage ratio requirement\nat 31 December 2024. The increase in the leverage exposures led to a was 3.25%, with an additional buffer of 0.9% - comprising a 0.7%\n0.6 percentage points fall in the leverage ratio, which was partly additional leverage ratio buffer and a 0.2% countercyclical leverage\noffset by higher tier 1 capital of 0.3 percentage points.The change in ratio buffer. These buffers translated into capital values of $20.1bn\nleverage exposure was driven by 0.4 percentage points increase due and $5.8bn, respectively. We exceeded these leverage requirements\nto growth in the balance sheet and by a 0.2 percentage points throughout 2025.\nincrease from foreign currency translation differences.\nThe average leverage ratio was 5.3% at 31 December 2025, down\nBalance sheet growth was mainly due to higher investments in debt from 5.5% at 31 December 2024. The increase in the average\nsecurities and trading assets within our CIB and Hong Kong leverage exposures led to a 0.5 percentage points fall in the average\nbusinesses, increased customer advances and commitments mainly leverage ratio, mainly driven by growth in the average balance sheet.\nacross all business segments, and higher secured financing This was partly offset by 0.3 percentage points increase in average\ntransactions in our CIB and UK businesses. tier 1 capital.\nThe table below provides a reconciliation of the total assets in our published balance sheet under IFRS and the total leverage exposure.\nThe table below provides a breakdown of on-balance sheet exposures excluding derivatives, SFTs and exempted exposures by asset class.",
+  "tables": [
+    {
+      "caption": "Table 12: Summary reconciliation of accounting assets and leverage ratio exposures (UK LR1- LRSum)",
+      "columns": [
+        {
+          "x": 499.74276076923076,
+          "header": "31 Dec 2025",
+          "unit": "$bn"
+        },
+        {
+          "x": 553.1466800000001,
+          "header": "31 Dec 2024",
+          "unit": "$bn"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "Total assets as per published financial statements",
+          "values": {
+            "31 Dec 2025": "3,233.0",
+            "31 Dec 2024": "3,017.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "consolidation",
+          "values": {
+            "31 Dec 2025": "(103.2)",
+            "31 Dec 2024": "(108.2)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "(Adjustment for securitised exposures that meet the operational requirements for the recognition of risk transference)",
+          "values": {
+            "31 Dec 2025": "(0.8)",
+            "31 Dec 2024": "(0.9)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "(Adjustment for exemption of exposures to central banks)",
+          "values": {
+            "31 Dec 2025": "(361.1)",
+            "31 Dec 2024": "(366.7)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Adjustment for regular-way purchases and sales of financial assets subject to trade date accounting",
+          "values": {
+            "31 Dec 2025": "(24.3)",
+            "31 Dec 2024": "(12.5)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Adjustment for eligible cash pooling transactions",
+          "values": {
+            "31 Dec 2025": "(7.1)",
+            "31 Dec 2024": "(6.8)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "Adjustment for derivative financial instruments",
+          "values": {
+            "31 Dec 2025": "(132.5)",
+            "31 Dec 2024": "(174.4)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "Adjustment for securities financing transactions (‘SFTs’)",
+          "values": {
+            "31 Dec 2025": "41.6",
+            "31 Dec 2024": "30.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Adjustment for off-balance sheet items (i.e. conversion to credit equivalent amounts of off-balance sheet exposures)",
+          "values": {
+            "31 Dec 2025": "263.8",
+            "31 Dec 2024": "231.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "(leverage))",
+          "values": {
+            "31 Dec 2025": "(40.4)",
+            "31 Dec 2024": "(40.4)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "Other adjustments",
+          "values": {
+            "31 Dec 2025": "8.1",
+            "31 Dec 2024": "2.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "13",
+          "label": "Total leverage ratio exposure",
+          "values": {
+            "31 Dec 2025": "2,877.1",
+            "31 Dec 2024": "2,571.1"
+          },
+          "is_section": false
+        }
+      ]
+    },
+    {
+      "caption": "Table 13: Leverage ratio – split of on-balance sheet exposures (excluding derivatives, SFTs and exempted exposures) (UK LR3-LRSpl)",
+      "columns": [
+        {
+          "x": 498.49362818181817,
+          "header": "31 Dec 2025",
+          "unit": "$bn"
+        },
+        {
+          "x": 552.0960781818183,
+          "header": "31 Dec 2024",
+          "unit": "$bn"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "UK-1",
+          "label": "Total on-balance sheet exposures (excluding derivatives, SFTs and exempted exposures), of which:",
+          "values": {
+            "31 Dec 2025": "2,114.6",
+            "31 Dec 2024": "1,921.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-2",
+          "label": "Trading book exposures",
+          "values": {
+            "31 Dec 2024": "285.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "",
+          "values": {
+            "31 Dec 2025": "342.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-3",
+          "label": "Banking book exposures, – of which:",
+          "values": {
+            "31 Dec 2025": "1,772.0",
+            "31 Dec 2024": "1,636.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-4",
+          "label": "– Covered bonds",
+          "values": {
+            "31 Dec 2025": "3.1",
+            "31 Dec 2024": "2.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-5",
+          "label": "– Exposures treated as sovereigns",
+          "values": {
+            "31 Dec 2025": "483.9",
+            "31 Dec 2024": "429.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "entities not treated as sovereigns",
+          "values": {
+            "31 Dec 2025": "2.0",
+            "31 Dec 2024": "2.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-7",
+          "label": "– Institutions",
+          "values": {
+            "31 Dec 2025": "73.4",
+            "31 Dec 2024": "69.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-8",
+          "label": "– Secured by mortgages of immovable properties",
+          "values": {
+            "31 Dec 2025": "389.4",
+            "31 Dec 2024": "362.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-9",
+          "label": "– Retail exposures",
+          "values": {
+            "31 Dec 2025": "71.3",
+            "31 Dec 2024": "71.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-10",
+          "label": "– Corporates",
+          "values": {
+            "31 Dec 2024": "492.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "",
+          "values": {
+            "31 Dec 2025": "515.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-11",
+          "label": "– Exposures in default",
+          "values": {
+            "31 Dec 2025": "17.3",
+            "31 Dec 2024": "16.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-12",
+          "label": "– Other exposures (e.g. equity, securitisations and other non-credit obligation assets)",
+          "values": {
+            "31 Dec 2025": "216.3",
+            "31 Dec 2024": "190.3"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

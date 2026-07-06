@@ -1,0 +1,347 @@
+{
+  "page": 21,
+  "prose": "Leverage\nWe manage our leverage ratio in order to maintain appropriate levels always undertaken with the sole objective of managing the leverage\nof leverage to support our business strategy, and meet our regulatory ratio, they may nevertheless have a consequential impact on the\nand stress testing-related requirements. Group’s leverage exposure measure and leverage ratio. Throughout\nthe period, management actions were undertaken within the context\nManagement continuously monitors key regulatory metrics, including\nof maintaining a prudent leverage position and ensuring continued\nleverage exposures and the leverage ratio, as part of the Group’s\ncompliance with regulatory requirements and internal risk appetite\ncapital and balance sheet management framework and risk appetite.\nthresholds.\nChanges in the leverage ratio during the period also reflected internal\nThe risk of excessive leverage is managed as part of HSBC’s global\nstrategic management actions. Where appropriate, actions are taken\nrisk appetite framework and monitored using the leverage ratio metric\neither directly to manage leverage exposures – such as balance sheet\nwithin the risk appetite statement (‘RAS’).\noptimisation, funding and collateral management, and the use of\nnetting or compression techniques – or indirectly through broader u For further details of our Treasury risk management framework see page\nbusiness and strategic decisions, including changes in business mix, 156 of the Annual Report and Accounts 2025.\nclient activity, and treasury positioning. While these actions are not\nThe table below provides a detailed breakdown of the components of our leverage exposure, including the split of the on- and off-balance sheet\nexposures, leverage ratios, minimum requirements and buffers. Effective 1 January 2025, the IFRS 9 transitional arrangements came to an end.\nThe components of the leverage ratio on an average basis are included below in accordance with the UK’s leverage ratio framework.",
+  "tables": [
+    {
+      "caption": "Table 11: Leverage ratio common disclosure (UK LR2-LRCom)",
+      "columns": [
+        {
+          "x": 498.90572297297297,
+          "header": "31 Dec 2025",
+          "unit": "$bn"
+        },
+        {
+          "x": 552.4627729729731,
+          "header": "31 Dec 2024",
+          "unit": "$bn"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "On-balance sheet items (excluding derivatives, SFTs, but including collateral)",
+          "values": {
+            "31 Dec 2025": "2,531.7",
+            "31 Dec 2024": "2,342.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "accounting framework",
+          "values": {
+            "31 Dec 2025": "11.6",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "(Deductions of receivables assets for cash variation margin provided in derivatives transactions)",
+          "values": {
+            "31 Dec 2025": "(56.0)",
+            "31 Dec 2024": "(54.3)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "(Asset amounts deducted in determining tier 1 capital (leverage))",
+          "values": {
+            "31 Dec 2025": "(40.4)",
+            "31 Dec 2024": "(40.4)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Total on-balance sheet exposures (excluding derivatives and SFTs)",
+          "values": {
+            "31 Dec 2025": "2,446.9",
+            "31 Dec 2024": "2,253.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "Derivative exposures Replacement cost associated with SA-CCR derivatives transactions (i.e. net of eligible cash variation margin)",
+          "values": {
+            "31 Dec 2025": "42.4",
+            "31 Dec 2024": "60.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "Add-on amounts for potential future exposure associated with SA-CCR derivatives transactions",
+          "values": {
+            "31 Dec 2025": "132.1",
+            "31 Dec 2024": "114.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "(Exempted CCP leg of client-cleared trade exposures) (SA-CCR)",
+          "values": {
+            "31 Dec 2025": "(30.1)",
+            "31 Dec 2024": "(33.9)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "Adjusted effective notional amount of written credit derivatives",
+          "values": {
+            "31 Dec 2025": "62.6",
+            "31 Dec 2024": "56.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "(Adjusted effective notional offsets and add-on deductions for written credit derivatives)",
+          "values": {
+            "31 Dec 2025": "(57.1)",
+            "31 Dec 2024": "(54.7)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "13",
+          "label": "Total derivative exposures",
+          "values": {
+            "31 Dec 2025": "149.9",
+            "31 Dec 2024": "143.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14",
+          "label": "SFT exposures Gross SFT assets (with no recognition of netting), after adjusting for sales accounting transactions",
+          "values": {
+            "31 Dec 2025": "641.5",
+            "31 Dec 2024": "486.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "15",
+          "label": "(Netted amounts of cash payables and cash receivables of gross SFT assets)",
+          "values": {
+            "31 Dec 2025": "(286.4)",
+            "31 Dec 2024": "(190.7)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "16",
+          "label": "Counterparty credit risk exposure for SFT assets",
+          "values": {
+            "31 Dec 2025": "22.5",
+            "31 Dec 2024": "13.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "18",
+          "label": "Total securities financing transaction exposures",
+          "values": {
+            "31 Dec 2025": "377.6",
+            "31 Dec 2024": "309.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "19",
+          "label": "Other off-balance sheet exposures Off-balance sheet exposures at gross notional amount",
+          "values": {
+            "31 Dec 2025": "1,015.8",
+            "31 Dec 2024": "938.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "20",
+          "label": "(Adjustments for conversion to credit equivalent amounts)",
+          "values": {
+            "31 Dec 2025": "(752.0)",
+            "31 Dec 2024": "(707.2)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "22",
+          "label": "Total off-balance sheet exposures",
+          "values": {
+            "31 Dec 2025": "263.8",
+            "31 Dec 2024": "231.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "23",
+          "label": "Capital and total exposures measure Tier 1 capital (leverage)",
+          "values": {
+            "31 Dec 2025": "153.4",
+            "31 Dec 2024": "144.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "24",
+          "label": "Total exposure measure including claims on central banks",
+          "values": {
+            "31 Dec 2025": "3,238.2",
+            "31 Dec 2024": "2,937.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-24a",
+          "label": "(-) Claims on central banks excluded",
+          "values": {
+            "31 Dec 2025": "(361.1)",
+            "31 Dec 2024": "(366.7)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-24b",
+          "label": "Total exposure measure excluding claims on central banks",
+          "values": {
+            "31 Dec 2025": "2,877.1",
+            "31 Dec 2024": "2,571.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "25",
+          "label": "Leverage ratios Leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-25a",
+          "label": "Fully loaded ECL accounting model leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "at fair value through other comprehensive income had not been applied (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-25c",
+          "label": "Leverage ratio including claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "4.7",
+            "31 Dec 2024": "4.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "26",
+          "label": "Regulatory minimum leverage ratio requirement (%)",
+          "values": {
+            "31 Dec 2025": "3.3",
+            "31 Dec 2024": "3.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "27",
+          "label": "Additional leverage ratio disclosure requirements – leverage ratio buffers Leverage ratio buffer (%)",
+          "values": {
+            "31 Dec 2025": "0.9",
+            "31 Dec 2024": "0.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-27a",
+          "label": "– of which: G-SII or O-SII additional leverage ratio buffer (%)",
+          "values": {
+            "31 Dec 2025": "0.7",
+            "31 Dec 2024": "0.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-27b",
+          "label": "– of which: countercyclical leverage ratio buffer (%)",
+          "values": {
+            "31 Dec 2025": "0.2",
+            "31 Dec 2024": "0.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "associated cash payables and cash receivable",
+          "values": {
+            "31 Dec 2025": "359.6",
+            "31 Dec 2024": "297.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "",
+          "values": {
+            "31 Dec 2025": "355.1",
+            "31 Dec 2024": "296.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-31",
+          "label": "associated cash payables and cash receivables Average total exposure measure including claims on central banks",
+          "values": {
+            "31 Dec 2025": "3,220.7",
+            "31 Dec 2024": "2,972.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-32",
+          "label": "Average total exposure measure excluding claims on central banks",
+          "values": {
+            "31 Dec 2025": "2,862.2",
+            "31 Dec 2024": "2,608.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-33",
+          "label": "Average leverage ratio including claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "4.7",
+            "31 Dec 2024": "4.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-34",
+          "label": "Average leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "31 Dec 2024": "5.5"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

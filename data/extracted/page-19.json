@@ -1,0 +1,368 @@
+{
+  "page": 19,
+  "prose": "Risk-weighted assets\nThe table below shows total RWAs including free deliveries, and the corresponding total own funds requirement split by risk type. Equities\nunder the simple risk-weighted approach include off-balance sheet collective investment undertakings ('CIU') equity exposures, calculated as\nper the PRA Rulebook Article 132(c), and ‘Other counterparty credit risk’ includes securities financing transactions RWAs. Amounts below the\nthresholds for deduction are included in rows 2 and 5 of the table and include thresholds for the recognition of significant investments and\ndeferred tax assets.\nThe quarter-on-quarter RWA movements in the table above are explained by risk type in the following comments.\nCredit risk, including securitisation Counterparty credit risk, including\nCredit risk RWAs at 31 December 2025, including securitisation, settlement risk\ndecreased by $11.5bn compared with 30 September 2025. This\nCounterparty credit risk RWAs increased by $0.1bn, due to risk\nincluded an $0.8bn increase from foreign currency translation\nparameter refinements that were largely offset by a decrease in the\ndifferences and a $12.3bn fall mainly attributable to:\nderivatives portfolio within our CIB business.\n– a $10.6bn decrease mainly from credit risk parameter refinements\nincluding methodology changes to our undrawn exposures within Market risk\nthe UK and CIB businesses, and a UK transaction where certain\nMarket risk RWAs increased by $9.5bn, mainly due to the $5.7bn\ncredit risk was transferred to a third party;\nhigher structural foreign exchange exposures to hedge the anticipated\n– a $3.2bn decrease from asset quality movements primarily due to\nimpact of the Hang Seng Bank privatisation and the stressed market\ncredit risk mitigations and portfolio mix changes in our Hong Kong\nconditions of the fourth quarter of 2025, which resulted in a $1.5bn\nand CIB businesses;\nhigher stressed value at risk, due to the changes in interest rate and\n– a $1.5bn decrease mainly due to the sale of our French retained\nforeign exchange risk profile.\nportfolio of home and certain other loans; and\nOperational risk\n– a $3.1bn increase from asset size movements largely driven by\ncorporate lending in our UK business and in SAB within Corporate\nOperational risk RWAs increased by $11.6bn, driven by higher\nCentre.\naverage income across our businesses.",
+  "tables": [
+    {
+      "caption": "Table 7: Overview of risk-weighted exposure amounts (OV1)",
+      "columns": [
+        {
+          "x": 300.4699138461539,
+          "header": "31 Dec 2025 RWAs",
+          "unit": "$m"
+        },
+        {
+          "x": 350.71452923076924,
+          "header": "31 Dec 2025 Total own funds requirements",
+          "unit": "$m"
+        },
+        {
+          "x": 401.34433653846156,
+          "header": "30 Sep 2025 RWAs",
+          "unit": "$m"
+        },
+        {
+          "x": 451.59002884615387,
+          "header": "30 Sep 2025 Total own funds requirements",
+          "unit": "$m"
+        },
+        {
+          "x": 501.8441446153846,
+          "header": "31 Dec 2024 RWAs",
+          "unit": "$m"
+        },
+        {
+          "x": 552.0895665384617,
+          "header": "31 Dec 2024 Total own funds requirements",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "Credit risk (excluding counterparty credit risk)",
+          "values": {
+            "31 Dec 2025 RWAs": "675,976",
+            "31 Dec 2025 Total own funds requirements": "54,079",
+            "30 Sep 2025 RWAs": "688,591",
+            "30 Sep 2025 Total own funds requirements": "55,088",
+            "31 Dec 2024 RWAs": "648,230",
+            "31 Dec 2024 Total own funds requirements": "51,859"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "– standardised approach",
+          "values": {
+            "31 Dec 2025 RWAs": "198,810",
+            "31 Dec 2025 Total own funds requirements": "15,905",
+            "30 Sep 2025 RWAs": "199,821",
+            "30 Sep 2025 Total own funds requirements": "15,986",
+            "31 Dec 2024 RWAs": "177,202",
+            "31 Dec 2024 Total own funds requirements": "14,176"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "– foundation IRB approach",
+          "values": {
+            "31 Dec 2025 RWAs": "87,373",
+            "31 Dec 2025 Total own funds requirements": "6,989",
+            "30 Sep 2025 RWAs": "93,494",
+            "30 Sep 2025 Total own funds requirements": "7,480",
+            "31 Dec 2024 RWAs": "84,195",
+            "31 Dec 2024 Total own funds requirements": "6,736"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "– slotting approach",
+          "values": {
+            "31 Dec 2025 RWAs": "21,883",
+            "31 Dec 2025 Total own funds requirements": "1,751",
+            "30 Sep 2025 RWAs": "21,994",
+            "30 Sep 2025 Total own funds requirements": "1,760",
+            "31 Dec 2024 RWAs": "22,269",
+            "31 Dec 2024 Total own funds requirements": "1,782"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-4a",
+          "label": "– equities under the simple risk-weighted approach",
+          "values": {
+            "31 Dec 2025 RWAs": "4,895",
+            "31 Dec 2025 Total own funds requirements": "392",
+            "30 Sep 2025 RWAs": "5,417",
+            "30 Sep 2025 Total own funds requirements": "433",
+            "31 Dec 2024 RWAs": "4,700",
+            "31 Dec 2024 Total own funds requirements": "376"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "– advanced IRB approach",
+          "values": {
+            "31 Dec 2025 RWAs": "363,015",
+            "31 Dec 2025 Total own funds requirements": "29,042",
+            "30 Sep 2025 RWAs": "367,865",
+            "30 Sep 2025 Total own funds requirements": "29,429",
+            "31 Dec 2024 RWAs": "359,864",
+            "31 Dec 2024 Total own funds requirements": "28,789"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Counterparty credit risk",
+          "values": {
+            "31 Dec 2025 RWAs": "42,380",
+            "31 Dec 2025 Total own funds requirements": "3,390",
+            "30 Sep 2025 RWAs": "42,270",
+            "30 Sep 2025 Total own funds requirements": "3,381",
+            "31 Dec 2024 RWAs": "37,642",
+            "31 Dec 2024 Total own funds requirements": "3,012"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "– standardised approach",
+          "values": {
+            "31 Dec 2025 RWAs": "9,641",
+            "31 Dec 2025 Total own funds requirements": "771",
+            "30 Sep 2025 RWAs": "10,052",
+            "30 Sep 2025 Total own funds requirements": "804",
+            "31 Dec 2024 RWAs": "9,225",
+            "31 Dec 2024 Total own funds requirements": "738"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "– internal model method",
+          "values": {
+            "31 Dec 2025 RWAs": "15,011",
+            "31 Dec 2025 Total own funds requirements": "1,201",
+            "30 Sep 2025 RWAs": "14,381",
+            "30 Sep 2025 Total own funds requirements": "1,150",
+            "31 Dec 2024 RWAs": "13,771",
+            "31 Dec 2024 Total own funds requirements": "1,102"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-8a",
+          "label": "– exposures to a central counterparty",
+          "values": {
+            "31 Dec 2025 RWAs": "2,293",
+            "31 Dec 2025 Total own funds requirements": "183",
+            "30 Sep 2025 RWAs": "2,589",
+            "30 Sep 2025 Total own funds requirements": "207",
+            "31 Dec 2024 RWAs": "1,808",
+            "31 Dec 2024 Total own funds requirements": "145"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-8b",
+          "label": "– credit valuation adjustment",
+          "values": {
+            "31 Dec 2025 RWAs": "1,294",
+            "31 Dec 2025 Total own funds requirements": "104",
+            "30 Sep 2025 RWAs": "1,709",
+            "30 Sep 2025 Total own funds requirements": "137",
+            "31 Dec 2024 RWAs": "2,235",
+            "31 Dec 2024 Total own funds requirements": "179"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "– other counterparty credit risk",
+          "values": {
+            "31 Dec 2025 RWAs": "14,141",
+            "31 Dec 2025 Total own funds requirements": "1,131",
+            "30 Sep 2025 RWAs": "13,539",
+            "30 Sep 2025 Total own funds requirements": "1,083",
+            "31 Dec 2024 RWAs": "10,603",
+            "31 Dec 2024 Total own funds requirements": "848"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "15",
+          "label": "Settlement risk",
+          "values": {
+            "31 Dec 2025 RWAs": "54",
+            "31 Dec 2025 Total own funds requirements": "4",
+            "30 Sep 2025 RWAs": "88",
+            "30 Sep 2025 Total own funds requirements": "7",
+            "31 Dec 2024 RWAs": "40",
+            "31 Dec 2024 Total own funds requirements": "3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "16",
+          "label": "Securitisation exposures in the non-trading book",
+          "values": {
+            "31 Dec 2025 RWAs": "11,031",
+            "31 Dec 2025 Total own funds requirements": "882",
+            "30 Sep 2025 RWAs": "9,910",
+            "30 Sep 2025 Total own funds requirements": "793",
+            "31 Dec 2024 RWAs": "9,665",
+            "31 Dec 2024 Total own funds requirements": "774"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "17",
+          "label": "(after the cap) – internal ratings-based approach (‘SEC-IRBA’)",
+          "values": {
+            "31 Dec 2025 RWAs": "3,836",
+            "31 Dec 2025 Total own funds requirements": "307",
+            "30 Sep 2025 RWAs": "2,547",
+            "30 Sep 2025 Total own funds requirements": "204",
+            "31 Dec 2024 RWAs": "2,832",
+            "31 Dec 2024 Total own funds requirements": "227"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "18",
+          "label": "– external ratings-based approach (‘SEC-ERBA’) (including internal assessment approach (‘IAA’))",
+          "values": {
+            "31 Dec 2025 RWAs": "1,436",
+            "31 Dec 2025 Total own funds requirements": "115",
+            "30 Sep 2025 RWAs": "1,411",
+            "30 Sep 2025 Total own funds requirements": "113",
+            "31 Dec 2024 RWAs": "2,063",
+            "31 Dec 2024 Total own funds requirements": "165"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "19",
+          "label": "– standardised approach (‘SEC-SA’)",
+          "values": {
+            "31 Dec 2025 RWAs": "5,541",
+            "31 Dec 2025 Total own funds requirements": "443",
+            "30 Sep 2025 RWAs": "5,775",
+            "30 Sep 2025 Total own funds requirements": "462",
+            "31 Dec 2024 RWAs": "4,488",
+            "31 Dec 2024 Total own funds requirements": "359"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-19a",
+          "label": "– 1250%/deduction",
+          "values": {
+            "31 Dec 2025 RWAs": "218",
+            "31 Dec 2025 Total own funds requirements": "17",
+            "30 Sep 2025 RWAs": "177",
+            "30 Sep 2025 Total own funds requirements": "14",
+            "31 Dec 2024 RWAs": "282",
+            "31 Dec 2024 Total own funds requirements": "23"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "20",
+          "label": "Position, foreign exchange and commodities risks (market risk)",
+          "values": {
+            "31 Dec 2025 RWAs": "38,490",
+            "31 Dec 2025 Total own funds requirements": "3,079",
+            "30 Sep 2025 RWAs": "28,903",
+            "30 Sep 2025 Total own funds requirements": "2,312",
+            "31 Dec 2024 RWAs": "36,205",
+            "31 Dec 2024 Total own funds requirements": "2,897"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "21",
+          "label": "– standardised approach",
+          "values": {
+            "31 Dec 2025 RWAs": "16,182",
+            "31 Dec 2025 Total own funds requirements": "1,294",
+            "30 Sep 2025 RWAs": "10,086",
+            "30 Sep 2025 Total own funds requirements": "807",
+            "31 Dec 2024 RWAs": "9,334",
+            "31 Dec 2024 Total own funds requirements": "747"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "22",
+          "label": "– internal models approach",
+          "values": {
+            "31 Dec 2025 RWAs": "22,308",
+            "31 Dec 2025 Total own funds requirements": "1,785",
+            "30 Sep 2025 RWAs": "18,817",
+            "30 Sep 2025 Total own funds requirements": "1,505",
+            "31 Dec 2024 RWAs": "26,871",
+            "31 Dec 2024 Total own funds requirements": "2,150"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Operational risk",
+          "values": {
+            "31 Dec 2025 RWAs": "120,716",
+            "31 Dec 2025 Total own funds requirements": "9,657",
+            "30 Sep 2025 RWAs": "109,031",
+            "30 Sep 2025 Total own funds requirements": "8,722",
+            "31 Dec 2024 RWAs": "106,472",
+            "31 Dec 2024 Total own funds requirements": "8,518"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-23b",
+          "label": "– standardised approach",
+          "values": {
+            "31 Dec 2025 RWAs": "120,716",
+            "31 Dec 2025 Total own funds requirements": "9,657",
+            "30 Sep 2025 RWAs": "109,031",
+            "30 Sep 2025 Total own funds requirements": "8,722",
+            "31 Dec 2024 RWAs": "106,472",
+            "31 Dec 2024 Total own funds requirements": "8,518"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "29",
+          "label": "Total",
+          "values": {
+            "31 Dec 2025 RWAs": "888,647",
+            "31 Dec 2025 Total own funds requirements": "71,091",
+            "30 Sep 2025 RWAs": "878,793",
+            "30 Sep 2025 Total own funds requirements": "70,303",
+            "31 Dec 2024 RWAs": "838,254",
+            "31 Dec 2024 Total own funds requirements": "67,062"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "24",
+          "label": "– of which: Amounts below the thresholds for deduction (subject to 250% risk weight)",
+          "values": {
+            "31 Dec 2025 RWAs": "46,665",
+            "31 Dec 2025 Total own funds requirements": "3,733",
+            "30 Sep 2025 RWAs": "46,278",
+            "30 Sep 2025 Total own funds requirements": "3,702",
+            "31 Dec 2024 RWAs": "45,784",
+            "31 Dec 2024 Total own funds requirements": "3,663"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

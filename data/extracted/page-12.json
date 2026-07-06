@@ -1,0 +1,151 @@
+{
+  "page": 12,
+  "prose": "The table below shows the main differences between the accounting balances and the regulatory exposure amounts by risk type and the on\nand off-balance sheet treatment of the exposures. Row 1 and 2 excludes amounts subject to deduction from capital or not subject to regulatory\ncapital requirements. Row 12 ‘exposure amounts considered for regulatory purposes’ is a more meaningful measure for credit risk, counterparty\ncredit risk and securitisation frameworks, however not for the market risk framework, as there are no exposures reported.\n12 Exposure amounts considered for regulatory purposes at 31 Dec 2025 2,780.8 2,316.3 58.8 178.0 —\nExplanations of differences between Other differences\nOther differences primarily relate to exposures at default (‘EAD’)\ncarrying values in financial\nmodelling impacts, potential future exposures (‘PFE’) and adjustments\nstatements and regulatory exposure relating to funded settlement risk (‘FSR’) for counterparty credit risk.\namounts Explanation of differences between\naccounting fair value and regulatory\nDifferences in netting rules\nThe increase from carrying value due to differences in netting rules is prudent valuation\nthe reversal of amounts deducted from gross loans and advances to\ncustomers in the published financial statements in accordance with Fair value is defined as the best estimate of the price that would be\nreceived to sell an asset or be paid to transfer a liability in an orderly\nthe offsetting criteria of IAS 32 ‘Financial instruments: presentation’.\ntransaction between market participants at the measurement date.\nThis also includes the differences between accounting carrying values\nversus regulatory exposures considered for counterparty credit risk\nSome fair value adjustments already reflect valuation uncertainty to\nreporting purposes.\nsome degree. These are market data uncertainty and model\nuncertainty. However, it is recognised that a variety of valuation\nDifferences due to consideration of provisions\ntechniques using stressed assumptions, and combined with the range\nThe carrying value of assets is net of credit risk adjustments. The of plausible market parameters at a given point in time, may still\nregulatory exposure value under IRB approaches is before deducting\ngenerate unexpected uncertainty beyond fair value.\ncredit risk adjustments.\nA series of additional valuation adjustments (‘AVAs’) are therefore\nDifferences due to the use of credit risk required to reach a specified degree of confidence (the ‘prudent\nvalue’) set by regulators that differs both in terms of scope and\nmitigation techniques\nmeasurement from HSBC’s own quantification for disclosure\nExposure value under the standardised approach (‘SA/STD’) is\npurposes.\ncalculated after deducting credit risk mitigation whereas accounting\nAVAs should consider at the minimum: market price uncertainty, bid-\nvalue is before such deductions.\noffer (close-out) uncertainty, model risk, concentration, administrative\nDifferences due to credit conversion factors\ncosts, unearned credit spreads and investing and funding costs.\nExposure value of off-balance sheet items are calculated after the\nAVAs are not limited to level 3 exposures, for which a 95%\napplication of the relevant conversion factors as defined in the CRR II. uncertainty range is already computed and disclosed, but must also\nbe calculated for any exposure for which the exit price cannot be\nDifferences due to securitisation with risk\ndetermined with a high degree of certainty. Table 68 presents further\ntransfer information on the prudent valuation adjustment.\nSecuritisation exposure is based on risk transfer of exposure at u For further details of level 3 exposures, see Note 12 on page 306 of the\ndefault (‘EAD’) of underlying loans instead of accounting value. Financial Statements of the Annual Report and Accounts 2025.",
+  "tables": [
+    {
+      "caption": "Table 5: Main sources of differences between regulatory exposure amounts and carrying values in financial statements (LI2)",
+      "columns": [
+        {
+          "x": 353.58862636363637,
+          "header": "col0",
+          "unit": "$bn"
+        },
+        {
+          "x": 399.0949915384615,
+          "header": "Credit risk framework",
+          "unit": "$bn"
+        },
+        {
+          "x": 455.36762636363636,
+          "header": "of which items Securitisation framework",
+          "unit": "$bn"
+        },
+        {
+          "x": 500.90953545454545,
+          "header": "subject to: CCR framework",
+          "unit": "$bn"
+        },
+        {
+          "x": 551.7004900000001,
+          "header": "Market risk framework",
+          "unit": "$bn"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Total per template LI1)",
+          "values": {
+            "col0": "3,064.5",
+            "Credit risk framework": "2,029.6",
+            "of which items Securitisation framework": "46.0",
+            "subject to: CCR framework": "639.3",
+            "Market risk framework": "632.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "(as per template LI1)",
+          "values": {
+            "col0": "647.3",
+            "Credit risk framework": "1.7",
+            "of which items Securitisation framework": "—",
+            "subject to: CCR framework": "523.7",
+            "Market risk framework": "381.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "Total net amount under the regulatory scope of consolidation",
+          "values": {
+            "col0": "2,417.2",
+            "Credit risk framework": "2,027.9",
+            "of which items Securitisation framework": "46.0",
+            "subject to: CCR framework": "115.6",
+            "Market risk framework": "250.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "Off-balance-sheet amounts",
+          "values": {
+            "col0": "1,030.6",
+            "Credit risk framework": "972.9",
+            "of which items Securitisation framework": "28.0",
+            "subject to: CCR framework": "29.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Differences due to different netting rules, other than those already included in row 2",
+          "values": {
+            "col0": "36.7",
+            "Credit risk framework": "14.3",
+            "of which items Securitisation framework": "—",
+            "subject to: CCR framework": "22.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Differences due to consideration of provisions",
+          "values": {
+            "col0": "8.3",
+            "Credit risk framework": "8.3",
+            "of which items Securitisation framework": "—",
+            "subject to: CCR framework": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "Differences due to the use of credit risk mitigation techniques (CRMs)",
+          "values": {
+            "col0": "(74.0)",
+            "Credit risk framework": "(22.8)",
+            "of which items Securitisation framework": "(2.4)",
+            "subject to: CCR framework": "(48.8)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "Differences due to credit conversion factors",
+          "values": {
+            "col0": "(685.0)",
+            "Credit risk framework": "(685.0)",
+            "of which items Securitisation framework": "—",
+            "subject to: CCR framework": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Differences due to Securitisation with risk transfer",
+          "values": {
+            "col0": "(12.8)",
+            "Credit risk framework": "—",
+            "of which items Securitisation framework": "(12.8)",
+            "subject to: CCR framework": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "Other differences",
+          "values": {
+            "col0": "59.8",
+            "Credit risk framework": "0.7",
+            "of which items Securitisation framework": "—",
+            "subject to: CCR framework": "59.1"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

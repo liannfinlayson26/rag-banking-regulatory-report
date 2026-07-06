@@ -1,0 +1,30 @@
+# Secrets / environment
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Vector store
+chroma_db/
+
+# Downloaded source document(s)
+data/*.pdf
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code local settings (per-user; not part of the project)
+.claude/settings.local.json
+
+# Raw agent-session transcripts (build logs, not part of the deliverable)
+*-local-command-*.txt

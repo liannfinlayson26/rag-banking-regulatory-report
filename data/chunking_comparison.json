@@ -1,0 +1,426 @@
+{
+  "pillar3_baseline": [
+    {
+      "id": 1,
+      "question": "What is HSBC's CET1 capital ratio as at 31 December 2025?",
+      "gold": "14.9% (unchanged vs 31 Dec 2024)",
+      "trap": "number-conflation: five quarter-end ratios sit in one row (14.9/14.5/14.6/14.7/14.9)",
+      "answer": "The retrieved context does not contain enough information to answer.",
+      "pages": [
+        17,
+        6,
+        16,
+        5
+      ],
+      "answered": false,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": false,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 2,
+      "question": "What was HSBC's CET1 capital (the $bn figure, not the ratio) at 31 Dec 2025?",
+      "gold": "$132.6bn",
+      "trap": "returns the ratio (14.9%), or a prior-period capital value",
+      "answer": "HSBC's CET1 capital at 31 Dec 2025 was $132.6bn.",
+      "pages": [
+        16,
+        17,
+        6,
+        5
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 3,
+      "question": "What is HSBC's leverage ratio, and did it rise or fall over 2025?",
+      "gold": "5.3%, DOWN from 5.6% at 31 Dec 2024",
+      "trap": "temporal: 'down from' phrasing may yield 5.6 as the current value",
+      "answer": "HSBC's leverage ratio was 5.3% at 31 December 2025, down from 5.6% at 31 December 2024.",
+      "pages": [
+        22,
+        21,
+        22,
+        21
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 4,
+      "question": "What is the combined RWA for market risk and counterparty credit risk at 31 Dec 2025?",
+      "gold": "38,490 + 42,380 = 80,870 $m (= $80.9bn); the 80,870 sum is computed, not printed",
+      "trap": "aggregation: returns one row, or the Total (888,647), or fabricates",
+      "answer": "The retrieved context does not contain enough information to answer.",
+      "pages": [
+        20,
+        20,
+        19,
+        19
+      ],
+      "answered": false,
+      "retrieved_has_fact": false,
+      "grounded": true,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": false,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 5,
+      "question": "Is HSBC's reported CET1 ratio on a transitional or end-point basis?",
+      "gold": "Both the same — IFRS 9 transitional arrangements ended 1 Jan 2025 and CRR II grandfathering ended 28 Jun 2025, so capital figures are identical on both bases",
+      "trap": "basis/qualifier: ignores the caveat and just restates a number",
+      "answer": "The retrieved context does not contain enough information to answer.",
+      "pages": [
+        7,
+        6,
+        7,
+        17
+      ],
+      "answered": false,
+      "retrieved_has_fact": false,
+      "grounded": true,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 6,
+      "question": "What were HSBC's LCR and NSFR at 31 Dec 2025, and what is the HQLA amount?",
+      "gold": "LCR 137%, NSFR 143%, average HQLA $702bn",
+      "trap": "compound: silently drops one of the three parts",
+      "answer": "HSBC's LCR at 31 December 2025 was 143%, and the NSFR was also 143%. The HQLA amount was $702bn at 31 December 2025.",
+      "pages": [
+        5,
+        6,
+        23,
+        25
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": false,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 7,
+      "question": "What net CET1 impact did the Hang Seng Bank privatisation have, and when?",
+      "gold": "net 110 bps in January 2026 (day-one ~120 bps, partly offset by ~10 bps), based on the 31 Dec 2025 ratio",
+      "trap": "conflates the 110 / 120 / 10 bps figures",
+      "answer": "The net CET1 capital impact of the privatisation of Hang Seng Bank was 110 bps upon taking effect in January 2026.",
+      "pages": [
+        7,
+        17,
+        17,
+        7
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 8,
+      "question": "What total capital charge does HSBC apply as a percentage of RWAs, and under which regulation?",
+      "gold": "8% of RWAs, set by Article 92(1) of CRR II",
+      "trap": "cross-reference: returns 8% without the Article reference (or returns the 20.5% total capital ratio instead of the 8% minimum charge)",
+      "answer": "HSBC applies a total capital charge of 20.5% of RWAs under the Basel III regulation as of 31 December 2022.",
+      "pages": [
+        18,
+        6,
+        7,
+        6
+      ],
+      "answered": true,
+      "retrieved_has_fact": false,
+      "grounded": false,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 9,
+      "question": "What is HSBC Holdings' total RWA, and in what currency?",
+      "gold": "$888,647m (= $888.6bn), US dollars",
+      "trap": "units: omits USD, or gives $bn without noting the source cells are $m",
+      "answer": "At 31 December 2025, HSBC Holdings' total RWAs were $22,308m.",
+      "pages": [
+        11,
+        20,
+        9,
+        19
+      ],
+      "answered": true,
+      "retrieved_has_fact": false,
+      "grounded": false,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 10,
+      "question": "What is the operational risk RWA, and how much did it change from 2024?",
+      "gold": "120,716 $m vs 106,472 $m = increase of 14,244 $m (~+$14.2bn); the 14,244 delta is computed, not printed",
+      "trap": "aggregation/delta: returns one year, picks the wrong comparison column (30 Sep 2025 = 109,031), or miscomputes",
+      "answer": "The operational risk RWA is $120,716m as of 31 December 2025. It increased by $11.6bn from 2024.",
+      "pages": [
+        19,
+        19,
+        5,
+        19
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": false,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    }
+  ],
+  "pillar3_structured": [
+    {
+      "id": 1,
+      "question": "What is HSBC's CET1 capital ratio as at 31 December 2025?",
+      "gold": "14.9% (unchanged vs 31 Dec 2024)",
+      "trap": "number-conflation: five quarter-end ratios sit in one row (14.9/14.5/14.6/14.7/14.9)",
+      "answer": "HSBC's CET1 capital ratio as at 31 December 2025 is 14.9%.",
+      "pages": [
+        5,
+        6,
+        7,
+        5
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 2,
+      "question": "What was HSBC's CET1 capital (the $bn figure, not the ratio) at 31 Dec 2025?",
+      "gold": "$132.6bn",
+      "trap": "returns the ratio (14.9%), or a prior-period capital value",
+      "answer": "132.6 $bn as at 31 Dec 2025",
+      "pages": [
+        16,
+        5,
+        6,
+        17
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 3,
+      "question": "What is HSBC's leverage ratio, and did it rise or fall over 2025?",
+      "gold": "5.3%, DOWN from 5.6% at 31 Dec 2024",
+      "trap": "temporal: 'down from' phrasing may yield 5.6 as the current value",
+      "answer": "HSBC's leverage ratio was 5.3% at 31 December 2025, down from 5.6% at 31 December 2024.",
+      "pages": [
+        22,
+        21,
+        21,
+        8
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 4,
+      "question": "What is the combined RWA for market risk and counterparty credit risk at 31 Dec 2025?",
+      "gold": "38,490 + 42,380 = 80,870 $m (= $80.9bn); the 80,870 sum is computed, not printed",
+      "trap": "aggregation: returns one row, or the Total (888,647), or fabricates",
+      "answer": "The retrieved context does not contain enough information to answer.",
+      "pages": [
+        20,
+        19,
+        19,
+        5
+      ],
+      "answered": false,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": false,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 5,
+      "question": "Is HSBC's reported CET1 ratio on a transitional or end-point basis?",
+      "gold": "Both the same — IFRS 9 transitional arrangements ended 1 Jan 2025 and CRR II grandfathering ended 28 Jun 2025, so capital figures are identical on both bases",
+      "trap": "basis/qualifier: ignores the caveat and just restates a number",
+      "answer": "The retrieved context does not contain enough information to answer.",
+      "pages": [
+        7,
+        6,
+        6,
+        7
+      ],
+      "answered": false,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 6,
+      "question": "What were HSBC's LCR and NSFR at 31 Dec 2025, and what is the HQLA amount?",
+      "gold": "LCR 137%, NSFR 143%, average HQLA $702bn",
+      "trap": "compound: silently drops one of the three parts",
+      "answer": "HSBC's LCR at 31 December 2025 was 137% and the NSFR was 143%. The HQLA amount was $702bn.",
+      "pages": [
+        5,
+        23,
+        25,
+        6
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 7,
+      "question": "What net CET1 impact did the Hang Seng Bank privatisation have, and when?",
+      "gold": "net 110 bps in January 2026 (day-one ~120 bps, partly offset by ~10 bps), based on the 31 Dec 2025 ratio",
+      "trap": "conflates the 110 / 120 / 10 bps figures",
+      "answer": "The net CET1 capital impact of the privatisation of Hang Seng Bank was 110 bps upon taking effect in January 2026 (based on the CET1 capital ratio as at 31 December 2025).",
+      "pages": [
+        7,
+        17,
+        5,
+        7
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    },
+    {
+      "id": 8,
+      "question": "What total capital charge does HSBC apply as a percentage of RWAs, and under which regulation?",
+      "gold": "8% of RWAs, set by Article 92(1) of CRR II",
+      "trap": "cross-reference: returns 8% without the Article reference (or returns the 20.5% total capital ratio instead of the 8% minimum charge)",
+      "answer": "HSBC applies a total capital charge of 15.7% of RWAs based on the Supervisory Review and Evaluation Process (‘SREP’) as of 31 Dec 2025.",
+      "pages": [
+        18,
+        6,
+        7,
+        7
+      ],
+      "answered": true,
+      "retrieved_has_fact": false,
+      "grounded": false,
+      "numerically_correct": false,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 9,
+      "question": "What is HSBC Holdings' total RWA, and in what currency?",
+      "gold": "$888,647m (= $888.6bn), US dollars",
+      "trap": "units: omits USD, or gives $bn without noting the source cells are $m",
+      "answer": "HSBC Holdings' total RWA is $888,647m as of 31 December 2025.",
+      "pages": [
+        19,
+        5,
+        11,
+        19
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": false,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": false
+    },
+    {
+      "id": 10,
+      "question": "What is the operational risk RWA, and how much did it change from 2024?",
+      "gold": "120,716 $m vs 106,472 $m = increase of 14,244 $m (~+$14.2bn); the 14,244 delta is computed, not printed",
+      "trap": "aggregation/delta: returns one year, picks the wrong comparison column (30 Sep 2025 = 109,031), or miscomputes",
+      "answer": "The operational risk RWA is 120,716 ($m) as of 31 Dec 2025. It increased by $14,244 ($m) from 106,472 ($m) in 31 Dec 2024.",
+      "pages": [
+        19,
+        5,
+        19,
+        19
+      ],
+      "answered": true,
+      "retrieved_has_fact": true,
+      "grounded": true,
+      "numerically_correct": true,
+      "complete": true,
+      "unit_ok": true,
+      "figure_right_unit_wrong": false,
+      "passed": true
+    }
+  ]
+}

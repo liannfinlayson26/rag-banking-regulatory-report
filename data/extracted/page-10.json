@@ -1,0 +1,368 @@
+{
+  "page": 10,
+  "prose": "Total equity at 31 Dec 2025 205,666 (2,832) (30) 3,394 206,198\nTotal liabilities and equity at 31 Dec 2025 3,233,034 (138,173) 31,604 3,394 3,129,859\n† The references (a)–(p) identify balance sheet components that are used in the calculation of regulatory capital in Table 6: Composition of Regulatory own funds¹\n(UK CC1). This table shows such items at their accounting values, which may be subject to analysis or adjustment in the calculation of regulatory capital shown in\nTable 6.\nThe table below lists the principal entities to which different accounting methods are applied under the regulatory scope of consolidation and\nrefer to the structure of the regulatory group above.\nAt 31 Dec 2025\nMethod of regulatory consolidation\nDeducted\nMethod of Neither\nfrom capital\naccounting Proportional consolidated Equity\nsubject to\nPrincipal activities consolidation consolidation nor deducted method thresholds\nPrincipal associates\nSaudi Awwal Bank Banking services Equity l\nPrincipal insurance entities\nHSBC Life (International) Ltd Life insurance manufacturing Fully consolidated l l\nHang Seng Insurance Company Ltd Life insurance manufacturing Fully consolidated l l\nHSBC Insurance (Singapore) Pte Ltd Life insurance manufacturing Fully consolidated l l\nHSBC Life (UK) Ltd Life insurance manufacturing Fully consolidated l l\nHSBC Life Assurance (Malta) Ltd Life insurance manufacturing Fully consolidated l l\nHSBC Life Insurance Company Ltd Life insurance manufacturing Fully consolidated l l\nHSBC Seguros S.A. (Mexico) Life insurance manufacturing Fully consolidated l l\nHSBC Life (Singapore) Pte. Ltd. Life insurance manufacturing Fully consolidated l l\nHSBC Insurance (Bermuda) Ltd Reinsurance Fully consolidated l l\nPrincipal SPEs\nMetrix Portfolio Distribution plc Securitisation Fully consolidated l\nNeon Portfolio Distribution DAC Securitisation Fully consolidated l\nRegency Assets DAC Securitisation Fully consolidated l\nu For further details of HSBC holdings’ subsidiaries, funds, joint ventures and associates, see Note 38 on page 347 of the Financial Statements of the Annual\nReport and Accounts 2025.",
+  "tables": [
+    {
+      "caption": "Table 2: Reconciliation of regulatory own funds to balance sheet in the financial statements (UK CC2) (continued)",
+      "columns": [
+        {
+          "x": 321.76323137931035,
+          "header": "Accounting balance sheet",
+          "unit": "$m"
+        },
+        {
+          "x": 386.55064517241374,
+          "header": "Deconsolidation of insurance/ other entities",
+          "unit": "$m"
+        },
+        {
+          "x": 438.8329555172413,
+          "header": "Consolidation of banking associates",
+          "unit": "$m"
+        },
+        {
+          "x": 506.9207831034483,
+          "header": "Equity accounting of insurance subsidiaries",
+          "unit": "$m"
+        },
+        {
+          "x": 551.9322313793103,
+          "header": "Regulatory balance sheet",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Ref †",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liabilities and equity Hong Kong currency notes in circulation",
+          "values": {
+            "Accounting balance sheet": "44,063",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "44,063"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Deposits by banks",
+          "values": {
+            "Accounting balance sheet": "97,952",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "1,142",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "99,094"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Customer accounts",
+          "values": {
+            "Accounting balance sheet": "1,786,828",
+            "Deconsolidation of insurance/ other entities": "5,944",
+            "Consolidation of banking associates": "26,040",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "1,818,812"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Repurchase agreements – non-trading",
+          "values": {
+            "Accounting balance sheet": "204,974",
+            "Deconsolidation of insurance/ other entities": "(558)",
+            "Consolidation of banking associates": "1,013",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "205,429"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Trading liabilities",
+          "values": {
+            "Accounting balance sheet": "72,122",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "72,122"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial liabilities designated at fair value",
+          "values": {
+            "Accounting balance sheet": "158,456",
+            "Deconsolidation of insurance/ other entities": "(5,288)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "153,168"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: included in tier 2",
+          "values": {
+            "Accounting balance sheet": "9,175",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "9,175"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "n, o, i Derivatives",
+          "values": {
+            "Accounting balance sheet": "237,854",
+            "Deconsolidation of insurance/ other entities": "96",
+            "Consolidation of banking associates": "162",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "238,112"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: debit valuation adjustment k",
+          "values": {
+            "Accounting balance sheet": "(22)",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "(22)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Debt securities in issue",
+          "values": {
+            "Accounting balance sheet": "99,675",
+            "Deconsolidation of insurance/ other entities": "(1,960)",
+            "Consolidation of banking associates": "645",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "98,360"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liabilities of disposals group held for sale",
+          "values": {
+            "Accounting balance sheet": "23,382",
+            "Deconsolidation of insurance/ other entities": "(6,386)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "16,996"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Accruals, deferred income and other liabilities n,o",
+          "values": {
+            "Accounting balance sheet": "142,123",
+            "Deconsolidation of insurance/ other entities": "(3,697)",
+            "Consolidation of banking associates": "2,370",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "140,796"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Current tax liabilities",
+          "values": {
+            "Accounting balance sheet": "3,037",
+            "Deconsolidation of insurance/ other entities": "(463)",
+            "Consolidation of banking associates": "160",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "2,734"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Insurance contract liabilities",
+          "values": {
+            "Accounting balance sheet": "122,955",
+            "Deconsolidation of insurance/ other entities": "(122,955)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Provisions",
+          "values": {
+            "Accounting balance sheet": "3,441",
+            "Deconsolidation of insurance/ other entities": "(49)",
+            "Consolidation of banking associates": "102",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "3,494"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: credit-related contingent liabilities and contractual commitments on IRB portfolios",
+          "values": {
+            "Accounting balance sheet": "358",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "358"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "h Deferred tax liabilities",
+          "values": {
+            "Accounting balance sheet": "2,100",
+            "Deconsolidation of insurance/ other entities": "(25)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "2,075"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Subordinated liabilities",
+          "values": {
+            "Accounting balance sheet": "28,406",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "28,406"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: included in tier 2",
+          "values": {
+            "Accounting balance sheet": "23,906",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "23,906"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "n, o Total liabilities at 31 Dec 2025",
+          "values": {
+            "Accounting balance sheet": "3,027,368",
+            "Deconsolidation of insurance/ other entities": "(135,341)",
+            "Consolidation of banking associates": "31,634",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "2,923,661"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Equity Called up share capital a",
+          "values": {
+            "Accounting balance sheet": "8,588",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "8,588"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Share premium account",
+          "values": {
+            "Accounting balance sheet": "111",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "111"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "a Other equity instruments l",
+          "values": {
+            "Accounting balance sheet": "20,716",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "20,716"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Other reserves b,c,g",
+          "values": {
+            "Accounting balance sheet": "(795)",
+            "Deconsolidation of insurance/ other entities": "2,157",
+            "Consolidation of banking associates": "40",
+            "Equity accounting of insurance subsidiaries": "5,153",
+            "Regulatory balance sheet": "6,555"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Retained earnings b,c,i",
+          "values": {
+            "Accounting balance sheet": "169,605",
+            "Deconsolidation of insurance/ other entities": "(4,785)",
+            "Consolidation of banking associates": "(40)",
+            "Equity accounting of insurance subsidiaries": "(1,759)",
+            "Regulatory balance sheet": "163,021"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Total shareholders’ equity",
+          "values": {
+            "Accounting balance sheet": "198,225",
+            "Deconsolidation of insurance/ other entities": "(2,628)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "3,394",
+            "Regulatory balance sheet": "198,991"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Non-controlling interests d,m,o",
+          "values": {
+            "Accounting balance sheet": "7,441",
+            "Deconsolidation of insurance/ other entities": "(204)",
+            "Consolidation of banking associates": "(30)",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "7,207"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

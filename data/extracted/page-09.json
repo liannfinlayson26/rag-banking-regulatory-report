@@ -1,0 +1,337 @@
+{
+  "page": 9,
+  "prose": "Linkage to the Annual Report and\nAccounts 2025\nThis section demonstrates the links between the Group’s financial balance sheet and its regulatory counterpart.\nStructure of the regulatory group\nThe regulatory consolidation is consistent with the accounting – participating interests in banking associates are proportionally\nconsolidation, with the following exceptions: consolidated for regulatory purposes by including our share of\nassets, liabilities, profits and losses, and RWAs in accordance with\n– subsidiaries engaged in insurance activities are equity accounted in\nthe PRA’s regulatory requirements; and\nthe regulatory consolidation and then deducted from CET1 capital,\n– non-participating significant investments are deducted from\nsubject to thresholds;\ncapital, subject to thresholds.\n– special purpose entities (‘SPEs’) are excluded where significant\nrisk has been transferred to third parties. Exposures to these SPEs u For further details of the differences between the accounting and regulatory\nare risk weighted as securitisation positions for regulatory scope of consolidation and their definition of exposure, see pages 8 to 11.\npurposes;\nThe table below presents the reconciliation between the Group's financial balance sheet and the regulatory scope of consolidation. The\nregulatory balance sheet value cannot be directly reconciled to other tables showing exposure under the regulatory scope of consolidation as\nthe basis of measurement used in the calculation of RWAs differs.\nTotal assets at 31 Dec 2025 3,233,034 (138,173) 31,604 3,394 3,129,859",
+  "tables": [
+    {
+      "caption": "Table 2: Reconciliation of regulatory own funds to balance sheet in the financial statements (UK CC2)",
+      "columns": [
+        {
+          "x": 314.1275284615385,
+          "header": "Accounting balance sheet Ref †",
+          "unit": "$m"
+        },
+        {
+          "x": 378.77010538461536,
+          "header": "Deconsolidation of insurance/ other entities",
+          "unit": "$m"
+        },
+        {
+          "x": 434.0328746153846,
+          "header": "Consolidation of banking associates",
+          "unit": "$m"
+        },
+        {
+          "x": 506.69011,
+          "header": "Equity accounting of insurance subsidiaries",
+          "unit": "$m"
+        },
+        {
+          "x": 551.8794815384616,
+          "header": "Regulatory balance sheet",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Assets Cash and balances at central banks",
+          "values": {
+            "Accounting balance sheet Ref †": "242,859",
+            "Deconsolidation of insurance/ other entities": "(8)",
+            "Consolidation of banking associates": "414",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "243,265"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Hong Kong Government certificates of indebtedness",
+          "values": {
+            "Accounting balance sheet Ref †": "44,063",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "44,063"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Trading assets",
+          "values": {
+            "Accounting balance sheet Ref †": "366,153",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "366,153"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial assets designated and otherwise mandatorily measured at fair value through profit or loss",
+          "values": {
+            "Accounting balance sheet Ref †": "133,063",
+            "Deconsolidation of insurance/ other entities": "(117,732)",
+            "Consolidation of banking associates": "1,064",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "16,395"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial Sector Entities (‘FSEs’) that are outside the regulatory scope of consolidation p",
+          "values": {
+            "Accounting balance sheet Ref †": "—",
+            "Deconsolidation of insurance/ other entities": "139",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "139"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Derivatives",
+          "values": {
+            "Accounting balance sheet Ref †": "237,740",
+            "Deconsolidation of insurance/ other entities": "68",
+            "Consolidation of banking associates": "171",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "237,979"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Loans and advances to banks",
+          "values": {
+            "Accounting balance sheet Ref †": "108,462",
+            "Deconsolidation of insurance/ other entities": "(536)",
+            "Consolidation of banking associates": "1,704",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "109,630"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Loans and advances to customers",
+          "values": {
+            "Accounting balance sheet Ref †": "988,399",
+            "Deconsolidation of insurance/ other entities": "527",
+            "Consolidation of banking associates": "24,220",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "1,013,146"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "regulatory scope of consolidation p",
+          "values": {
+            "Accounting balance sheet Ref †": "—",
+            "Deconsolidation of insurance/ other entities": "844",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "844"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: expected credit losses on IRB portfolios h",
+          "values": {
+            "Accounting balance sheet Ref †": "(7,950)",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Regulatory balance sheet": "(7,950)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Reverse repurchase agreements – non-trading",
+          "values": {
+            "Accounting balance sheet Ref †": "298,392",
+            "Deconsolidation of insurance/ other entities": "146",
+            "Consolidation of banking associates": "80",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "298,618"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial investments",
+          "values": {
+            "Accounting balance sheet Ref †": "567,211",
+            "Deconsolidation of insurance/ other entities": "(6,626)",
+            "Consolidation of banking associates": "8,769",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "569,354"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "regulatory scope of consolidation p",
+          "values": {
+            "Accounting balance sheet Ref †": "—",
+            "Deconsolidation of insurance/ other entities": "93",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "93"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Assets held for sale",
+          "values": {
+            "Accounting balance sheet Ref †": "11,115",
+            "Deconsolidation of insurance/ other entities": "(6,623)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "4,492"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: goodwill and intangible assets e",
+          "values": {
+            "Accounting balance sheet Ref †": "3",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: expected credit losses on IRB portfolios h",
+          "values": {
+            "Accounting balance sheet Ref †": "(8)",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "(8)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Capital invested in insurance and other entities",
+          "values": {
+            "Accounting balance sheet Ref †": "—",
+            "Deconsolidation of insurance/ other entities": "3,199",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "3,394",
+            "Regulatory balance sheet": "6,593"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which -positive goodwill on acquisition e",
+          "values": {
+            "Accounting balance sheet Ref †": "—",
+            "Deconsolidation of insurance/ other entities": "240",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "240"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Prepayments, accrued income and other assets p",
+          "values": {
+            "Accounting balance sheet Ref †": "184,794",
+            "Deconsolidation of insurance/ other entities": "(7,648)",
+            "Consolidation of banking associates": "832",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "177,978"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: retirement benefit assets j",
+          "values": {
+            "Accounting balance sheet Ref †": "8,246",
+            "Deconsolidation of insurance/ other entities": "—",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "8,246"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Current tax assets",
+          "values": {
+            "Accounting balance sheet Ref †": "864",
+            "Deconsolidation of insurance/ other entities": "(6)",
+            "Consolidation of banking associates": "1",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "859"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Interests in associates and joint ventures",
+          "values": {
+            "Accounting balance sheet Ref †": "29,577",
+            "Deconsolidation of insurance/ other entities": "(464)",
+            "Consolidation of banking associates": "(6,624)",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "22,489"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– of which: positive goodwill on acquisition e",
+          "values": {
+            "Accounting balance sheet Ref †": "482",
+            "Deconsolidation of insurance/ other entities": "(11)",
+            "Consolidation of banking associates": "—",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "471"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Goodwill and intangible assets e",
+          "values": {
+            "Accounting balance sheet Ref †": "13,107",
+            "Deconsolidation of insurance/ other entities": "(503)",
+            "Consolidation of banking associates": "929",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "13,533"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Deferred tax assets f",
+          "values": {
+            "Accounting balance sheet Ref †": "7,235",
+            "Deconsolidation of insurance/ other entities": "(1,967)",
+            "Consolidation of banking associates": "44",
+            "Equity accounting of insurance subsidiaries": "—",
+            "Regulatory balance sheet": "5,312"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

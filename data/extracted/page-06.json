@@ -1,0 +1,584 @@
+{
+  "page": 6,
+  "prose": "Key metrics\nThe table below sets out the key regulatory metrics covering the Group's available capital (including buffer requirements and ratios), RWAs,\nleverage ratio, LCR and NSFR. Effective 1 January 2025, the IFRS 9 transitional arrangements came to an end, followed by the end of the CRR II\ngrandfathering provisions on 28 June 2025. Accordingly, our capital figures are the same on both the transitional and end-point basis. The\nleverage ratio is calculated using the CRR II end-point basis for capital. LCR is reported as the average of the preceding 12 months while NSFR\nis reported as the average of the preceding four quarter-end values.",
+  "tables": [
+    {
+      "caption": "Table 1: Key metrics¹ (KM1/IFRS9-FL)",
+      "columns": [
+        {
+          "x": 355.83916523809523,
+          "header": "31 Dec 2025",
+          "unit": ""
+        },
+        {
+          "x": 404.8956492857143,
+          "header": "30 Sep 2025",
+          "unit": ""
+        },
+        {
+          "x": 453.63507571428573,
+          "header": "30 Jun 2025",
+          "unit": ""
+        },
+        {
+          "x": 502.3850276190476,
+          "header": "31 Mar 2025",
+          "unit": ""
+        },
+        {
+          "x": 551.1345933333333,
+          "header": "31 Dec 2024",
+          "unit": ""
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Available capital ($bn)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "1",
+          "label": "Common equity tier 1 (‘CET1’) capital",
+          "values": {
+            "31 Dec 2025": "132.6",
+            "30 Sep 2025": "127.8",
+            "30 Jun 2025": "129.8",
+            "31 Mar 2025": "125.5",
+            "31 Dec 2024": "124.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "CET1 capital as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "132.6",
+            "30 Sep 2025": "127.8",
+            "30 Jun 2025": "129.8",
+            "31 Mar 2025": "125.5",
+            "31 Dec 2024": "124.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Tier 1 capital",
+          "values": {
+            "31 Dec 2025": "153.4",
+            "30 Sep 2025": "148.6",
+            "30 Jun 2025": "150.6",
+            "31 Mar 2025": "144.3",
+            "31 Dec 2024": "144.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Tier 1 capital as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "153.4",
+            "30 Sep 2025": "148.6",
+            "30 Jun 2025": "150.6",
+            "31 Mar 2025": "144.3",
+            "31 Dec 2024": "144.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "Total capital",
+          "values": {
+            "31 Dec 2025": "182.4",
+            "30 Sep 2025": "177.7",
+            "30 Jun 2025": "178.5",
+            "31 Mar 2025": "169.8",
+            "31 Dec 2024": "172.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Total capital as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "182.4",
+            "30 Sep 2025": "177.7",
+            "30 Jun 2025": "178.5",
+            "31 Mar 2025": "169.8",
+            "31 Dec 2024": "172.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Risk-weighted assets ($bn)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "4",
+          "label": "Total RWAs",
+          "values": {
+            "31 Dec 2025": "888.6",
+            "30 Sep 2025": "878.8",
+            "30 Jun 2025": "886.9",
+            "31 Mar 2025": "853.3",
+            "31 Dec 2024": "838.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Total RWAs as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "888.6",
+            "30 Sep 2025": "878.8",
+            "30 Jun 2025": "886.9",
+            "31 Mar 2025": "853.3",
+            "31 Dec 2024": "838.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Capital ratios (%)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "5",
+          "label": "CET1",
+          "values": {
+            "31 Dec 2025": "14.9",
+            "30 Sep 2025": "14.5",
+            "30 Jun 2025": "14.6",
+            "31 Mar 2025": "14.7",
+            "31 Dec 2024": "14.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "CET1 as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "14.9",
+            "30 Sep 2025": "14.5",
+            "30 Jun 2025": "14.6",
+            "31 Mar 2025": "14.7",
+            "31 Dec 2024": "14.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Tier 1",
+          "values": {
+            "31 Dec 2025": "17.3",
+            "30 Sep 2025": "16.9",
+            "30 Jun 2025": "17.0",
+            "31 Mar 2025": "16.9",
+            "31 Dec 2024": "17.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Tier 1 as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "17.3",
+            "30 Sep 2025": "16.9",
+            "30 Jun 2025": "17.0",
+            "31 Mar 2025": "16.9",
+            "31 Dec 2024": "17.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Total capital",
+          "values": {
+            "31 Dec 2025": "20.5",
+            "30 Sep 2025": "20.2",
+            "30 Jun 2025": "20.1",
+            "31 Mar 2025": "19.9",
+            "31 Dec 2024": "20.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Total capital as if IFRS 9 transitional arrangements had not been applied",
+          "values": {
+            "31 Dec 2025": "20.5",
+            "30 Sep 2025": "20.2",
+            "30 Jun 2025": "20.1",
+            "31 Mar 2025": "19.9",
+            "31 Dec 2024": "20.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Additional own funds requirements based on Supervisory Review",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "and Evaluation Process (‘SREP’) as a percentage of RWAs (%)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "UK-7a",
+          "label": "Additional CET1 SREP requirements",
+          "values": {
+            "31 Dec 2025": "1.4",
+            "30 Sep 2025": "1.4",
+            "30 Jun 2025": "1.5",
+            "31 Mar 2025": "1.5",
+            "31 Dec 2024": "1.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-7b",
+          "label": "Additional tier 1 ('AT1') SREP requirements",
+          "values": {
+            "31 Dec 2025": "0.5",
+            "30 Sep 2025": "0.5",
+            "30 Jun 2025": "0.5",
+            "31 Mar 2025": "0.5",
+            "31 Dec 2024": "0.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-7c",
+          "label": "Additional tier 2 ('T2') SREP requirements",
+          "values": {
+            "31 Dec 2025": "0.6",
+            "30 Sep 2025": "0.6",
+            "30 Jun 2025": "0.6",
+            "31 Mar 2025": "0.6",
+            "31 Dec 2024": "0.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-7d",
+          "label": "Total SREP own funds requirements",
+          "values": {
+            "31 Dec 2025": "10.5",
+            "30 Sep 2025": "10.5",
+            "30 Jun 2025": "10.6",
+            "31 Mar 2025": "10.6",
+            "31 Dec 2024": "10.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Combined buffer requirement as a percentage of RWAs (%)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "8",
+          "label": "Capital conservation buffer requirement",
+          "values": {
+            "31 Dec 2025": "2.5",
+            "30 Sep 2025": "2.5",
+            "30 Jun 2025": "2.5",
+            "31 Mar 2025": "2.5",
+            "31 Dec 2024": "2.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "Institution-specific countercyclical capital buffer",
+          "values": {
+            "31 Dec 2025": "0.7",
+            "30 Sep 2025": "0.7",
+            "30 Jun 2025": "0.7",
+            "31 Mar 2025": "0.7",
+            "31 Dec 2024": "0.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Global systemically important institution buffer",
+          "values": {
+            "31 Dec 2025": "2.0",
+            "30 Sep 2025": "2.0",
+            "30 Jun 2025": "2.0",
+            "31 Mar 2025": "2.0",
+            "31 Dec 2024": "2.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "Combined buffer requirement",
+          "values": {
+            "31 Dec 2025": "5.2",
+            "30 Sep 2025": "5.2",
+            "30 Jun 2025": "5.2",
+            "31 Mar 2025": "5.2",
+            "31 Dec 2024": "5.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-11a",
+          "label": "Overall capital requirements",
+          "values": {
+            "31 Dec 2025": "15.7",
+            "30 Sep 2025": "15.7",
+            "30 Jun 2025": "15.8",
+            "31 Mar 2025": "15.8",
+            "31 Dec 2024": "15.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "CET1 available after meeting the total SREP own funds requirements",
+          "values": {
+            "31 Dec 2025": "9.0",
+            "30 Sep 2025": "8.6",
+            "30 Jun 2025": "8.7",
+            "31 Mar 2025": "8.7",
+            "31 Dec 2024": "8.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "13",
+          "label": "Leverage ratio Total exposure measure excluding claims on central banks ($bn)",
+          "values": {
+            "31 Dec 2025": "2,877.1",
+            "30 Sep 2025": "2,840.5",
+            "30 Jun 2025": "2,792.9",
+            "31 Mar 2025": "2,652.0",
+            "31 Dec 2024": "2,571.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14",
+          "label": "Leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "30 Sep 2025": "5.2",
+            "30 Jun 2025": "5.4",
+            "31 Mar 2025": "5.4",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Additional leverage ratio disclosure requirements",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "14a",
+          "label": "Fully loaded expected credit losses (‘ECL’) accounting model leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "30 Sep 2025": "5.2",
+            "30 Jun 2025": "5.4",
+            "31 Mar 2025": "5.4",
+            "31 Dec 2024": "5.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14b",
+          "label": "Leverage ratio including claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "4.7",
+            "30 Sep 2025": "4.6",
+            "30 Jun 2025": "4.8",
+            "31 Mar 2025": "4.8",
+            "31 Dec 2024": "4.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14c",
+          "label": "Average leverage ratio excluding claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "5.3",
+            "30 Sep 2025": "5.3",
+            "30 Jun 2025": "5.4",
+            "31 Mar 2025": "5.5",
+            "31 Dec 2024": "5.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14d",
+          "label": "Average leverage ratio including claims on central banks (%)",
+          "values": {
+            "31 Dec 2025": "4.7",
+            "30 Sep 2025": "4.7",
+            "30 Jun 2025": "4.8",
+            "31 Mar 2025": "4.8",
+            "31 Dec 2024": "4.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14e",
+          "label": "Countercyclical leverage ratio buffer (%)",
+          "values": {
+            "31 Dec 2025": "0.2",
+            "30 Sep 2025": "0.2",
+            "30 Jun 2025": "0.2",
+            "31 Mar 2025": "0.2",
+            "31 Dec 2024": "0.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "EU-14d",
+          "label": "Leverage ratio buffer requirement (%)",
+          "values": {
+            "31 Dec 2025": "0.9",
+            "30 Sep 2025": "0.9",
+            "30 Jun 2025": "0.9",
+            "31 Mar 2025": "0.9",
+            "31 Dec 2024": "0.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "EU-14e",
+          "label": "Overall leverage ratio requirements (%)",
+          "values": {
+            "31 Dec 2025": "4.2",
+            "30 Sep 2025": "4.2",
+            "30 Jun 2025": "4.2",
+            "31 Mar 2025": "4.2",
+            "31 Dec 2024": "4.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liquidity coverage ratio (‘LCR’) ($bn)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "15",
+          "label": "Total high-quality liquid assets",
+          "values": {
+            "31 Dec 2025": "702.1",
+            "30 Sep 2025": "690.2",
+            "30 Jun 2025": "678.1",
+            "31 Mar 2025": "660.7",
+            "31 Dec 2024": "649.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-16a",
+          "label": "Cash outflows – total weighted value",
+          "values": {
+            "31 Dec 2025": "697.0",
+            "30 Sep 2025": "682.2",
+            "30 Jun 2025": "669.4",
+            "31 Mar 2025": "657.3",
+            "31 Dec 2024": "656.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-16b",
+          "label": "Cash inflows – total weighted value",
+          "values": {
+            "31 Dec 2025": "184.9",
+            "30 Sep 2025": "183.9",
+            "30 Jun 2025": "183.9",
+            "31 Mar 2025": "182.1",
+            "31 Dec 2024": "185.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "16",
+          "label": "Total net cash outflow",
+          "values": {
+            "31 Dec 2025": "512.1",
+            "30 Sep 2025": "498.3",
+            "30 Jun 2025": "485.5",
+            "31 Mar 2025": "475.2",
+            "31 Dec 2024": "470.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "17",
+          "label": "LCR (%)",
+          "values": {
+            "31 Dec 2025": "137",
+            "30 Sep 2025": "139",
+            "30 Jun 2025": "140",
+            "31 Mar 2025": "139",
+            "31 Dec 2024": "138"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Net stable funding ratio ('NSFR') ($bn)",
+          "values": {},
+          "is_section": true
+        },
+        {
+          "ref": "18",
+          "label": "Total available stable funding",
+          "values": {
+            "31 Dec 2025": "1,621.0",
+            "30 Sep 2025": "1,588.6",
+            "30 Jun 2025": "1,572.1",
+            "31 Mar 2025": "1,539.8",
+            "31 Dec 2024": "1,523.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "19",
+          "label": "Total required stable funding",
+          "values": {
+            "31 Dec 2025": "1,133.3",
+            "30 Sep 2025": "1,104.1",
+            "30 Jun 2025": "1,082.7",
+            "31 Mar 2025": "1,056.7",
+            "31 Dec 2024": "1,064.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "20",
+          "label": "NSFR (%)",
+          "values": {
+            "31 Dec 2025": "143",
+            "30 Sep 2025": "144",
+            "30 Jun 2025": "145",
+            "31 Mar 2025": "146",
+            "31 Dec 2024": "143"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

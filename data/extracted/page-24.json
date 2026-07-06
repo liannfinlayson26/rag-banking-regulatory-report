@@ -1,0 +1,401 @@
+{
+  "page": 24,
+  "prose": "The table below sets out the granular split of cash outflows and cash inflows, as well as the available HQLA on both an unweighted and\nweighted basis, which are used to derive the LCR. All figures are based on the average over the preceding 12 months.",
+  "tables": [
+    {
+      "caption": "Table 14: Quantitative information of LCR (UK LIQ1)",
+      "columns": [
+        {
+          "x": 257.33099833333335,
+          "header": "Quarter 31 Dec Total unweighted value",
+          "unit": "$m"
+        },
+        {
+          "x": 297.11820375,
+          "header": "ended 2025 Total weighted value",
+          "unit": "$m"
+        },
+        {
+          "x": 342.19125684210525,
+          "header": "Quarter 30 Sep Total unweighted value",
+          "unit": "$m"
+        },
+        {
+          "x": 381.9007875,
+          "header": "ended 2025 Total weighted value #2",
+          "unit": "$m"
+        },
+        {
+          "x": 426.8966033333333,
+          "header": "Quarter 30 Jun Total unweighted value",
+          "unit": "$m"
+        },
+        {
+          "x": 466.6482458333333,
+          "header": "ended 2025 Total weighted value #3",
+          "unit": "$m"
+        },
+        {
+          "x": 512.3965472222222,
+          "header": "Quarter 31 Mar Total unweighted value",
+          "unit": "$m"
+        },
+        {
+          "x": 552.1507045833334,
+          "header": "ended 2025 Total weighted value #4",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "UK-1b",
+          "label": "Number of data points used in the calculation of averages",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "12",
+            "ended 2025 Total weighted value": "12",
+            "Quarter 30 Sep Total unweighted value": "12",
+            "ended 2025 Total weighted value #2": "12",
+            "Quarter 30 Jun Total unweighted value": "12",
+            "ended 2025 Total weighted value #3": "12",
+            "Quarter 31 Mar Total unweighted value": "12",
+            "ended 2025 Total weighted value #4": "12"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "1",
+          "label": "High quality liquid assets Total high quality liquid assets (‘HQLA’)",
+          "values": {
+            "ended 2025 Total weighted value": "702,123",
+            "ended 2025 Total weighted value #2": "690,157",
+            "ended 2025 Total weighted value #3": "678,059",
+            "ended 2025 Total weighted value #4": "660,704"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Cash outflows Retail deposits and small business funding",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "880,824",
+            "ended 2025 Total weighted value": "95,013",
+            "Quarter 30 Sep Total unweighted value": "869,479",
+            "ended 2025 Total weighted value #2": "93,823",
+            "Quarter 30 Jun Total unweighted value": "858,824",
+            "ended 2025 Total weighted value #3": "92,919",
+            "Quarter 31 Mar Total unweighted value": "841,474",
+            "ended 2025 Total weighted value #4": "91,377"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "– of which: stable deposits",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "385,826",
+            "ended 2025 Total weighted value": "19,291",
+            "Quarter 30 Sep Total unweighted value": "380,105",
+            "ended 2025 Total weighted value #2": "19,005",
+            "Quarter 30 Jun Total unweighted value": "369,514",
+            "ended 2025 Total weighted value #3": "18,476",
+            "Quarter 31 Mar Total unweighted value": "356,188",
+            "ended 2025 Total weighted value #4": "17,809"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "less stable deposits",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "494,998",
+            "ended 2025 Total weighted value": "75,722",
+            "Quarter 30 Sep Total unweighted value": "489,374",
+            "ended 2025 Total weighted value #2": "74,818",
+            "Quarter 30 Jun Total unweighted value": "489,310",
+            "ended 2025 Total weighted value #3": "74,443",
+            "Quarter 31 Mar Total unweighted value": "485,286",
+            "ended 2025 Total weighted value #4": "73,568"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "Unsecured wholesale funding",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "836,769",
+            "ended 2025 Total weighted value": "384,384",
+            "Quarter 30 Sep Total unweighted value": "822,617",
+            "ended 2025 Total weighted value #2": "377,597",
+            "Quarter 30 Jun Total unweighted value": "811,908",
+            "ended 2025 Total weighted value #3": "370,670",
+            "Quarter 31 Mar Total unweighted value": "797,686",
+            "ended 2025 Total weighted value #4": "363,636"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "– operational deposits (all counterparties)",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "and deposits in networks of cooperative banks",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "256,413",
+            "ended 2025 Total weighted value": "62,495",
+            "Quarter 30 Sep Total unweighted value": "252,512",
+            "ended 2025 Total weighted value #2": "61,565",
+            "Quarter 30 Jun Total unweighted value": "251,183",
+            "ended 2025 Total weighted value #3": "61,280",
+            "Quarter 31 Mar Total unweighted value": "247,716",
+            "ended 2025 Total weighted value #4": "60,465"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "– non-operational deposits (all",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "568,558",
+            "ended 2025 Total weighted value": "310,091",
+            "Quarter 30 Sep Total unweighted value": "558,161",
+            "ended 2025 Total weighted value #2": "304,088",
+            "Quarter 30 Jun Total unweighted value": "549,061",
+            "ended 2025 Total weighted value #3": "297,726",
+            "Quarter 31 Mar Total unweighted value": "538,213",
+            "ended 2025 Total weighted value #4": "291,414"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "counterparties) – unsecured debt",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "11,798",
+            "ended 2025 Total weighted value": "11,798",
+            "Quarter 30 Sep Total unweighted value": "11,944",
+            "ended 2025 Total weighted value #2": "11,944",
+            "Quarter 30 Jun Total unweighted value": "11,664",
+            "ended 2025 Total weighted value #3": "11,664",
+            "Quarter 31 Mar Total unweighted value": "11,757",
+            "ended 2025 Total weighted value #4": "11,757"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "Secured wholesale funding",
+          "values": {
+            "ended 2025 Total weighted value": "37,536",
+            "ended 2025 Total weighted value #2": "35,283",
+            "ended 2025 Total weighted value #3": "34,283",
+            "ended 2025 Total weighted value #4": "33,373"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Additional requirements",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "372,458",
+            "ended 2025 Total weighted value": "104,840",
+            "Quarter 30 Sep Total unweighted value": "362,110",
+            "ended 2025 Total weighted value #2": "102,302",
+            "Quarter 30 Jun Total unweighted value": "355,419",
+            "ended 2025 Total weighted value #3": "100,118",
+            "Quarter 31 Mar Total unweighted value": "349,090",
+            "ended 2025 Total weighted value #4": "97,266"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "– outflows related to derivative exposures",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "52,608",
+            "ended 2025 Total weighted value": "44,140",
+            "Quarter 30 Sep Total unweighted value": "52,655",
+            "ended 2025 Total weighted value #2": "43,828",
+            "Quarter 30 Jun Total unweighted value": "52,198",
+            "ended 2025 Total weighted value #3": "43,038",
+            "Quarter 31 Mar Total unweighted value": "50,502",
+            "ended 2025 Total weighted value #4": "41,311"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "13",
+          "label": "and other collateral requirements – credit and liquidity facilities",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "319,850",
+            "ended 2025 Total weighted value": "60,700",
+            "Quarter 30 Sep Total unweighted value": "309,455",
+            "ended 2025 Total weighted value #2": "58,474",
+            "Quarter 30 Jun Total unweighted value": "303,221",
+            "ended 2025 Total weighted value #3": "57,080",
+            "Quarter 31 Mar Total unweighted value": "298,588",
+            "ended 2025 Total weighted value #4": "55,955"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14",
+          "label": "Other contractual funding obligations",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "90,722",
+            "ended 2025 Total weighted value": "48,016",
+            "Quarter 30 Sep Total unweighted value": "88,439",
+            "ended 2025 Total weighted value #2": "47,481",
+            "Quarter 30 Jun Total unweighted value": "87,620",
+            "ended 2025 Total weighted value #3": "47,300",
+            "Quarter 31 Mar Total unweighted value": "88,801",
+            "ended 2025 Total weighted value #4": "48,859"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "15",
+          "label": "Other contingent funding obligations",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "664,016",
+            "ended 2025 Total weighted value": "27,232",
+            "Quarter 30 Sep Total unweighted value": "657,033",
+            "ended 2025 Total weighted value #2": "25,713",
+            "Quarter 30 Jun Total unweighted value": "650,477",
+            "ended 2025 Total weighted value #3": "24,138",
+            "Quarter 31 Mar Total unweighted value": "642,402",
+            "ended 2025 Total weighted value #4": "22,796"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "16",
+          "label": "Total cash outflows",
+          "values": {
+            "ended 2025 Total weighted value": "697,021",
+            "ended 2025 Total weighted value #2": "682,199",
+            "ended 2025 Total weighted value #3": "669,428",
+            "ended 2025 Total weighted value #4": "657,307"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Cash inflows",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "17",
+          "label": "Secured lending transactions (including reverse repos)",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "447,356",
+            "ended 2025 Total weighted value": "57,670",
+            "Quarter 30 Sep Total unweighted value": "424,841",
+            "ended 2025 Total weighted value #2": "55,385",
+            "Quarter 30 Jun Total unweighted value": "409,611",
+            "ended 2025 Total weighted value #3": "53,108",
+            "Quarter 31 Mar Total unweighted value": "389,140",
+            "ended 2025 Total weighted value #4": "50,119"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "18",
+          "label": "Inflows from fully performing exposures",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "95,474",
+            "ended 2025 Total weighted value": "70,108",
+            "Quarter 30 Sep Total unweighted value": "95,654",
+            "ended 2025 Total weighted value #2": "70,797",
+            "Quarter 30 Jun Total unweighted value": "97,982",
+            "ended 2025 Total weighted value #3": "73,092",
+            "Quarter 31 Mar Total unweighted value": "100,148",
+            "ended 2025 Total weighted value #4": "75,459"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "19",
+          "label": "Other cash inflows",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "94,592",
+            "ended 2025 Total weighted value": "57,151",
+            "Quarter 30 Sep Total unweighted value": "97,671",
+            "ended 2025 Total weighted value #2": "57,737",
+            "Quarter 30 Jun Total unweighted value": "103,266",
+            "ended 2025 Total weighted value #3": "57,710",
+            "Quarter 31 Mar Total unweighted value": "107,002",
+            "ended 2025 Total weighted value #4": "56,495"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "20",
+          "label": "Total cash inflows",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "637,422",
+            "ended 2025 Total weighted value": "184,929",
+            "Quarter 30 Sep Total unweighted value": "618,166",
+            "ended 2025 Total weighted value #2": "183,919",
+            "Quarter 30 Jun Total unweighted value": "610,859",
+            "ended 2025 Total weighted value #3": "183,910",
+            "Quarter 31 Mar Total unweighted value": "596,290",
+            "ended 2025 Total weighted value #4": "182,073"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-20c",
+          "label": "Inflows subject to 75% Cap",
+          "values": {
+            "Quarter 31 Dec Total unweighted value": "637,422",
+            "ended 2025 Total weighted value": "184,929",
+            "Quarter 30 Sep Total unweighted value": "618,166",
+            "ended 2025 Total weighted value #2": "183,919",
+            "Quarter 30 Jun Total unweighted value": "610,859",
+            "ended 2025 Total weighted value #3": "183,910",
+            "Quarter 31 Mar Total unweighted value": "596,290",
+            "ended 2025 Total weighted value #4": "182,073"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-21",
+          "label": "Liquidity coverage ratio (Adjusted value) Liquidity Buffer",
+          "values": {
+            "ended 2025 Total weighted value": "702,123",
+            "ended 2025 Total weighted value #2": "690,157",
+            "ended 2025 Total weighted value #3": "678,059",
+            "ended 2025 Total weighted value #4": "660,704"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "22",
+          "label": "Total net cash outflows",
+          "values": {
+            "ended 2025 Total weighted value": "512,092",
+            "ended 2025 Total weighted value #2": "498,280",
+            "ended 2025 Total weighted value #3": "485,518",
+            "ended 2025 Total weighted value #4": "475,234"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "23",
+          "label": "Liquidity coverage ratio (%)",
+          "values": {
+            "ended 2025 Total weighted value": "137",
+            "ended 2025 Total weighted value #2": "139",
+            "ended 2025 Total weighted value #3": "140",
+            "ended 2025 Total weighted value #4": "139"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

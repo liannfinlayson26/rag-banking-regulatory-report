@@ -1,0 +1,508 @@
+{
+  "page": 11,
+  "prose": "Measurement of regulatory exposures\nThis section sets out the main reasons why the measurement of accordance with IFRSs. The regulatory exposure value includes an\nregulatory exposures is not directly comparable with the financial estimation of risk, and is expressed as the amount expected to be\ninformation presented in the Annual Report and Accounts 2025. outstanding were the counterparty to default.\nThe Pillar 3 Disclosures at 31 December 2025 are prepared in Moreover, regulatory exposure classes are based on different criteria\naccordance with regulatory capital and liquidity adequacy concepts from accounting asset types and are therefore not comparable on a\nand rules, while the Annual Report and Accounts 2025 is prepared in line by line basis.\nThe table below provides a breakdown of assets and liabilities under the accounting and regulatory scope of consolidation, by risk types that\nform the basis for regulatory capital requirements and the link to regulatory exposure value.\nTotal liabilities at 31 Dec 2025 3,027.4 2,923.7 1.7 523.7 — 381.9 2,276.4\n1 The amounts shown do not equal the sum of the amounts shown in the remaining columns of this table for line items ‘Derivatives’, ’Trading assets’ and\n‘Prepayments, accrued income and other assets’ as some of the assets in this column are subject to regulatory capital charges for credit risk, counterparty credit\nrisk and market risk.\n2 The amounts shown include both non-trading book and trading book.\n3 The amounts shown are non-trading book positions. Trading book securitisation positions are included in the market risk column.\n4 The amounts shown do not consider exposures subject to foreign exchange risk RWA calculations.\n5 Our investment in BoCom is recognised as a significant investment in a financial sector entity. At 31 December 2025, $11.2bn was deducted from CET1 and\n$28.3bn RWAs were reported for this investment, with a related exposure of $11.3bn.",
+  "tables": [
+    {
+      "caption": "Table 4: Differences between accounting and regulatory scopes of consolidation and mapping of financial statement categories with",
+      "columns": [
+        {
+          "x": 242.7010203030303,
+          "header": "Carrying values as reported in published financial statements",
+          "unit": "$bn"
+        },
+        {
+          "x": 300.4509293939394,
+          "header": "Carrying values under scope of regulatory consolidation1",
+          "unit": "$bn"
+        },
+        {
+          "x": 345.3679317647059,
+          "header": "Subject to the credit risk framework",
+          "unit": "$bn"
+        },
+        {
+          "x": 394.2174023529412,
+          "header": "Subject to the counter- party credit risk framework2",
+          "unit": "$bn"
+        },
+        {
+          "x": 448.9371112121212,
+          "header": "Carrying value of Subject to the securitisation framework3",
+          "unit": "$bn"
+        },
+        {
+          "x": 498.43880818181816,
+          "header": "items Subject to the market risk framework4",
+          "unit": "$bn"
+        },
+        {
+          "x": 551.6944142424243,
+          "header": "Not subject to own funds requirements or subject to deduction from own funds",
+          "unit": "$bn"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "regulatory risk categories (LI1)",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Assets Cash and balances at central banks",
+          "values": {
+            "Carrying values as reported in published financial statements": "242.8",
+            "Carrying values under scope of regulatory consolidation1": "243.3",
+            "Subject to the credit risk framework": "243.3",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Hong Kong Government certificates of indebtedness",
+          "values": {
+            "Carrying values as reported in published financial statements": "44.1",
+            "Carrying values under scope of regulatory consolidation1": "44.1",
+            "Subject to the credit risk framework": "44.1",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Trading assets",
+          "values": {
+            "Carrying values as reported in published financial statements": "366.1",
+            "Carrying values under scope of regulatory consolidation1": "366.1",
+            "Subject to the credit risk framework": "2.3",
+            "Subject to the counter- party credit risk framework2": "33.4",
+            "Carrying value of Subject to the securitisation framework3": "0.1",
+            "items Subject to the market risk framework4": "363.8",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial assets designated and otherwise mandatorily measured at fair value",
+          "values": {
+            "Carrying values as reported in published financial statements": "133.1",
+            "Carrying values under scope of regulatory consolidation1": "16.4",
+            "Subject to the credit risk framework": "9.4",
+            "Subject to the counter- party credit risk framework2": "6.7",
+            "Carrying value of Subject to the securitisation framework3": "0.1",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "0.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Derivatives",
+          "values": {
+            "Carrying values as reported in published financial statements": "237.7",
+            "Carrying values under scope of regulatory consolidation1": "238.0",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "238.0",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "238.0",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Loans and advances to banks",
+          "values": {
+            "Carrying values as reported in published financial statements": "108.5",
+            "Carrying values under scope of regulatory consolidation1": "109.6",
+            "Subject to the credit risk framework": "109.4",
+            "Subject to the counter- party credit risk framework2": "0.2",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Loans and advances to customers",
+          "values": {
+            "Carrying values as reported in published financial statements": "988.4",
+            "Carrying values under scope of regulatory consolidation1": "1,013.1",
+            "Subject to the credit risk framework": "968.5",
+            "Subject to the counter- party credit risk framework2": "0.3",
+            "Carrying value of Subject to the securitisation framework3": "43.4",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "0.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Reverse repurchase agreements – non-trading",
+          "values": {
+            "Carrying values as reported in published financial statements": "298.4",
+            "Carrying values under scope of regulatory consolidation1": "298.6",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "298.6",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial investments",
+          "values": {
+            "Carrying values as reported in published financial statements": "567.2",
+            "Carrying values under scope of regulatory consolidation1": "569.4",
+            "Subject to the credit risk framework": "567.0",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "2.4",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Assets held for sale",
+          "values": {
+            "Carrying values as reported in published financial statements": "11.1",
+            "Carrying values under scope of regulatory consolidation1": "4.5",
+            "Subject to the credit risk framework": "4.4",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "0.1",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Capital invested in insurance and other entities",
+          "values": {
+            "Carrying values as reported in published financial statements": "—",
+            "Carrying values under scope of regulatory consolidation1": "6.6",
+            "Subject to the credit risk framework": "3.3",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "3.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Prepayments, accrued income and other assets",
+          "values": {
+            "Carrying values as reported in published financial statements": "184.8",
+            "Carrying values under scope of regulatory consolidation1": "178.0",
+            "Subject to the credit risk framework": "60.7",
+            "Subject to the counter- party credit risk framework2": "62.1",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "30.9",
+            "Not subject to own funds requirements or subject to deduction from own funds": "36.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Current tax assets",
+          "values": {
+            "Carrying values as reported in published financial statements": "0.9",
+            "Carrying values under scope of regulatory consolidation1": "0.9",
+            "Subject to the credit risk framework": "0.9",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Interests in associates and joint ventures5",
+          "values": {
+            "Carrying values as reported in published financial statements": "29.6",
+            "Carrying values under scope of regulatory consolidation1": "22.5",
+            "Subject to the credit risk framework": "11.3",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "11.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Goodwill and intangible assets",
+          "values": {
+            "Carrying values as reported in published financial statements": "13.1",
+            "Carrying values under scope of regulatory consolidation1": "13.5",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "12.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Deferred tax assets",
+          "values": {
+            "Carrying values as reported in published financial statements": "7.2",
+            "Carrying values under scope of regulatory consolidation1": "5.3",
+            "Subject to the credit risk framework": "5.0",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "0.3"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Total assets at 31 Dec 2025",
+          "values": {
+            "Carrying values as reported in published financial statements": "3,233.0",
+            "Carrying values under scope of regulatory consolidation1": "3,129.9",
+            "Subject to the credit risk framework": "2,029.6",
+            "Subject to the counter- party credit risk framework2": "639.3",
+            "Carrying value of Subject to the securitisation framework3": "46.0",
+            "items Subject to the market risk framework4": "632.8",
+            "Not subject to own funds requirements or subject to deduction from own funds": "65.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liabilities",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Hong Kong currency notes in circulation",
+          "values": {
+            "Carrying values as reported in published financial statements": "44.1",
+            "Carrying values under scope of regulatory consolidation1": "44.1",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "44.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Deposits by banks",
+          "values": {
+            "Carrying values as reported in published financial statements": "98.0",
+            "Carrying values under scope of regulatory consolidation1": "99.1",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "99.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Customer accounts",
+          "values": {
+            "Carrying values as reported in published financial statements": "1,786.8",
+            "Carrying values under scope of regulatory consolidation1": "1,818.8",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "1,818.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Repurchase agreements – non-trading",
+          "values": {
+            "Carrying values as reported in published financial statements": "204.9",
+            "Carrying values under scope of regulatory consolidation1": "205.4",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "205.4",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Trading liabilities",
+          "values": {
+            "Carrying values as reported in published financial statements": "72.1",
+            "Carrying values under scope of regulatory consolidation1": "72.1",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "19.4",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "72.1",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Financial liabilities designated at FV",
+          "values": {
+            "Carrying values as reported in published financial statements": "158.5",
+            "Carrying values under scope of regulatory consolidation1": "153.2",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "71.7",
+            "Not subject to own funds requirements or subject to deduction from own funds": "81.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Derivatives",
+          "values": {
+            "Carrying values as reported in published financial statements": "237.9",
+            "Carrying values under scope of regulatory consolidation1": "238.1",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "238.1",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "238.1",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Debt securities in issue",
+          "values": {
+            "Carrying values as reported in published financial statements": "99.7",
+            "Carrying values under scope of regulatory consolidation1": "98.4",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "98.4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liabilities for disposal groups held for sale",
+          "values": {
+            "Carrying values as reported in published financial statements": "23.4",
+            "Carrying values under scope of regulatory consolidation1": "17.0",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "17.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Accruals, deferred income, and other liabilities",
+          "values": {
+            "Carrying values as reported in published financial statements": "142.1",
+            "Carrying values under scope of regulatory consolidation1": "140.8",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "60.8",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "80.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Current tax liabilities",
+          "values": {
+            "Carrying values as reported in published financial statements": "3.0",
+            "Carrying values under scope of regulatory consolidation1": "2.7",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "2.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Liabilities under insurance contract",
+          "values": {
+            "Carrying values as reported in published financial statements": "123.0",
+            "Carrying values under scope of regulatory consolidation1": "—",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Provisions",
+          "values": {
+            "Carrying values as reported in published financial statements": "3.4",
+            "Carrying values under scope of regulatory consolidation1": "3.5",
+            "Subject to the credit risk framework": "0.7",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "2.8"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Deferred tax liabilities",
+          "values": {
+            "Carrying values as reported in published financial statements": "2.1",
+            "Carrying values under scope of regulatory consolidation1": "2.1",
+            "Subject to the credit risk framework": "1.0",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "3.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Subordinated liabilities",
+          "values": {
+            "Carrying values as reported in published financial statements": "28.4",
+            "Carrying values under scope of regulatory consolidation1": "28.4",
+            "Subject to the credit risk framework": "—",
+            "Subject to the counter- party credit risk framework2": "—",
+            "Carrying value of Subject to the securitisation framework3": "—",
+            "items Subject to the market risk framework4": "—",
+            "Not subject to own funds requirements or subject to deduction from own funds": "28.4"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "page": 16,
+  "prose": "Transactional foreign exchange risk stems from day-to-day (‘MSS’) and managed within limits, with the exception of limited\ntransactions in the banking book generating profit and loss or fair residual foreign exchange exposure arising from timing differences or\nvalue through other comprehensive income reserves in a currency for other reasons. Transactional foreign exchange exposure generated\ndifferent from the entity’s reporting currency. through other comprehensive income reserves is managed by Global\nTreasury within the approved appetite.\nTransactional foreign exchange exposure generated through profit and\nloss is periodically transferred to Markets and Securities Services u For commentary on hedging strategies, see pages 87 and 92.\nOwn funds\nThe table below provides a detailed breakdown of the key components of our CET1, T1 and T2 capital, and the regulatory adjustments impacting\nour capital base. Effective 1 January 2025, the IFRS 9 transitional arrangements came to an end, followed by the end of the CRR II\ngrandfathering provisions on 28 June 2025. Additional value adjustments are calculated on assets measured at fair value. The minimum\ndeductions for holdings of own CET1, AT1 and T2 capital instruments are set by the PRA. The threshold deduction for significant investments\nrelates to balances recorded on numerous lines on the balance sheet and includes: investments in insurance subsidiaries and non-consolidated\nassociates; other CET1 equity held in financial institutions; connected funding of a capital nature; and other balance sheet lines.",
+  "tables": [
+    {
+      "caption": "Table 6: Composition of Regulatory own funds¹ (UK CC1)",
+      "columns": [
+        {
+          "x": 506.40432783783785,
+          "header": "31 Dec 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 552.5253410810811,
+          "header": "31 Dec 2024",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Ref †",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "1",
+          "label": "Common equity tier 1 (‘CET1’) capital: instruments and reserves Capital instruments and the related share premium accounts",
+          "values": {
+            "31 Dec 2025": "8,699",
+            "31 Dec 2024": "22,378"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "– ordinary shares a",
+          "values": {
+            "31 Dec 2025": "8,699",
+            "31 Dec 2024": "22,378"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Retained earnings",
+          "values": {
+            "31 Dec 2025": "152,936",
+            "31 Dec 2024": "138,959"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "b Accumulated other comprehensive income (and other reserves) c",
+          "values": {
+            "31 Dec 2025": "(27)",
+            "31 Dec 2024": "(8,410)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "Minority interests (amount allowed in consolidated CET1) d",
+          "values": {
+            "31 Dec 2025": "3,303",
+            "31 Dec 2024": "3,960"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-5a",
+          "label": "Independently reviewed interim net profits net of any foreseeable charge or dividend b",
+          "values": {
+            "31 Dec 2025": "8,076",
+            "31 Dec 2024": "7,184"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Common equity tier 1 capital before regulatory adjustments",
+          "values": {
+            "31 Dec 2025": "172,987",
+            "31 Dec 2024": "164,071"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Common equity tier 1 capital: regulatory adjustments Additional value adjustments (negative amount)",
+          "values": {
+            "31 Dec 2025": "(1,348)",
+            "31 Dec 2024": "(1,141)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "Intangible assets (net of related deferred tax liability) (negative amount) e",
+          "values": {
+            "31 Dec 2025": "(13,626)",
+            "31 Dec 2024": "(12,890)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "tax liability where the conditions in Article 38 (3) CRR II are met) (negative amount)",
+          "values": {
+            "31 Dec 2025": "(3,076)",
+            "31 Dec 2024": "(3,513)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "f value",
+          "values": {
+            "31 Dec 2025": "(450)",
+            "31 Dec 2024": "1,057"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "g Negative amounts resulting from the calculation of expected loss amounts h",
+          "values": {
+            "31 Dec 2025": "(3,593)",
+            "31 Dec 2024": "(3,125)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "14",
+          "label": "Gains or losses on liabilities valued at fair value resulting from changes in own credit standing i",
+          "values": {
+            "31 Dec 2025": "1,725",
+            "31 Dec 2024": "1,243"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "15",
+          "label": "Defined-benefit pension fund assets (negative amount) j",
+          "values": {
+            "31 Dec 2025": "(6,167)",
+            "31 Dec 2024": "(5,651)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "16",
+          "label": "Direct and indirect holdings of own CET1 instruments (negative amount)",
+          "values": {
+            "31 Dec 2025": "(40)",
+            "31 Dec 2024": "(40)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "positions)",
+          "values": {
+            "31 Dec 2025": "(13,779)",
+            "31 Dec 2024": "(15,076)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "27a",
+          "label": "Other regulatory adjustments to CET1 capital (including IFRS 9 transitional adjustments when relevant)",
+          "values": {
+            "31 Dec 2025": "(40)",
+            "31 Dec 2024": "(24)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "28",
+          "label": "k Total regulatory adjustments to common equity tier 1 capital",
+          "values": {
+            "31 Dec 2025": "(40,394)",
+            "31 Dec 2024": "(39,160)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "29",
+          "label": "Common equity tier 1 (‘CET1’) capital",
+          "values": {
+            "31 Dec 2025": "132,593",
+            "31 Dec 2024": "124,911"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "30",
+          "label": "Additional tier 1 (‘AT1’) capital: instruments Capital instruments and the related share premium accounts",
+          "values": {
+            "31 Dec 2025": "20,716",
+            "31 Dec 2024": "19,070"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "31",
+          "label": "– classified as equity under IFRSs l",
+          "values": {
+            "31 Dec 2025": "20,716",
+            "31 Dec 2024": "19,070"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "",
+          "values": {
+            "31 Dec 2024": "216"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "by subsidiaries and held by third parties m",
+          "values": {
+            "31 Dec 2025": "158"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "36",
+          "label": "Additional tier 1 capital before regulatory adjustments",
+          "values": {
+            "31 Dec 2025": "20,874",
+            "31 Dec 2024": "19,286"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "37",
+          "label": "Additional tier 1 capital: regulatory adjustments Direct and indirect holdings of own AT1 instruments (negative amount)",
+          "values": {
+            "31 Dec 2025": "(70)",
+            "31 Dec 2024": "(70)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "43",
+          "label": "Total regulatory adjustments to additional Tier 1 capital",
+          "values": {
+            "31 Dec 2025": "(70)",
+            "31 Dec 2024": "(70)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "44",
+          "label": "Additional tier 1 capital",
+          "values": {
+            "31 Dec 2025": "20,804",
+            "31 Dec 2024": "19,216"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "45",
+          "label": "Tier 1 capital (T1 = CET1 + AT1)",
+          "values": {
+            "31 Dec 2025": "153,397",
+            "31 Dec 2024": "144,127"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "46",
+          "label": "Tier 2 capital: instruments and provisions Capital instruments and the related share premium accounts n",
+          "values": {
+            "31 Dec 2025": "29,061",
+            "31 Dec 2024": "24,292"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "UK-47b",
+          "label": "Amount of qualifying items referred to in Article 494b (2) CRR II subject to phase out from T2",
+          "values": {
+            "31 Dec 2025": "—",
+            "31 Dec 2024": "3,858"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "not included in CET1 or AT1) issued by subsidiaries and held by third parties",
+          "values": {
+            "31 Dec 2025": "1,106",
+            "31 Dec 2024": "1,184"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "51",
+          "label": "o Tier 2 capital before regulatory adjustments",
+          "values": {
+            "31 Dec 2025": "30,167",
+            "31 Dec 2024": "29,334"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Tier 2 capital: regulatory adjustments amount)",
+          "values": {
+            "31 Dec 2025": "(110)",
+            "31 Dec 2024": "(80)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "where the institution has a significant investment in those entities (net of eligible short positions)",
+          "values": {
+            "31 Dec 2025": "(1,083)",
+            "31 Dec 2024": "(995)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "57",
+          "label": "p Total regulatory adjustments to tier 2 capital",
+          "values": {
+            "31 Dec 2025": "(1,193)",
+            "31 Dec 2024": "(1,075)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "58",
+          "label": "Tier 2 capital",
+          "values": {
+            "31 Dec 2025": "28,974",
+            "31 Dec 2024": "28,259"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "59",
+          "label": "Total capital (TC = T1 + T2)",
+          "values": {
+            "31 Dec 2025": "182,371",
+            "31 Dec 2024": "172,386"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "60",
+          "label": "Total Risk exposure amount",
+          "values": {
+            "31 Dec 2025": "888,647",
+            "31 Dec 2024": "838,254"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

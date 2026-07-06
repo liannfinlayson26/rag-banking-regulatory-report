@@ -1,0 +1,172 @@
+{
+  "page": 25,
+  "prose": "The table below shows the components of the NSFR for unweighted values by residual maturity and the resultant weighted amounts. The\nNSFR is the average of the preceding four quarters.\n14 Total available stable funding (‘ASF’) 1,621,004\nRequired stable funding (‘RSF’) Items\n15 Total high-quality liquid assets (‘HQLA’) 69,728\n16 Deposits held at other financial institutions for operational\npurposes 453 — — 226\n17 Performing loans and securities: 550,215 108,811 837,926 858,528\n18 – Performing securities financing transactions with financial\ncustomers collateralised by Level 1 HQLA subject to 0%\nhaircut 175,957 12,275 5,283 18,790\n19 – Performing securities financing transactions with financial\ncustomer collateralised by other assets and loans and\nadvances to financial institutions 89,686 6,372 11,036 23,531\n20 – Performing loans to non-financial corporate clients, loans to\nretail and small business customers, and loans to\nsovereigns, and PSEs 143,937 51,357 280,038 330,391\n21 – of which: With a risk weight of less than or equal to 35%\nunder the Basel II standardised approach for credit risk 2,348 1,721 17,148 11,317\n22 – Performing residential mortgages 9,665 7,688 365,270 262,944\n23 – of which: With a risk weight of less than or equal to 35%\nunder the Basel II standardised approach for credit risk 6,571 6,624 328,146 229,309\n24 – Other loans and securities that are not in default and do not\nqualify as HQLA, including exchange-traded equities and\ntrade finance on-balance sheet products 130,970 31,119 176,299 222,872\n25 Interdependent assets — — 9,987 —\n26 Other assets: 188,096 54 111,262 157,505\n27 – Physical traded commodities 19,248 16,361\n28 – Assets posted as initial margin for derivative contracts and\ncontributions to default funds of CCPs 39,862 — — 33,883\n30 – NSFR derivative liabilities before deduction of variation\nmargin posted 89,763 — — 4,676\n31 – All other assets not included in the above categories 58,471 54 92,014 102,585\n32 Off-balance sheet items 196,727 85,966 703,410 47,362\n33 Total RSF 1,133,349\n34 Net stable funding ratio (%) 143",
+  "tables": [
+    {
+      "caption": "Table 15: Net stable funding ratio (UK LIQ2)",
+      "columns": [
+        {
+          "x": 379.95222076923073,
+          "header": "value by < 6 months",
+          "unit": "$m"
+        },
+        {
+          "x": 442.19652846153843,
+          "header": "31 Dec 2025 residual maturity to < 1yr",
+          "unit": "$m"
+        },
+        {
+          "x": 496.95002703703705,
+          "header": "31 Dec 2025 (average) ≥ 1yr",
+          "unit": "$m"
+        },
+        {
+          "x": 552.1412241935484,
+          "header": "31 Dec 2025 (average)",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "",
+          "label": "Weighted",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "value",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "months",
+          "values": {},
+          "is_section": false
+        },
+        {
+          "ref": "1",
+          "label": "Available stable funding (‘ASF’) Items Capital items and instruments 186,580",
+          "values": {
+            "value by < 6 months": "—",
+            "31 Dec 2025 residual maturity to < 1yr": "—",
+            "31 Dec 2025 (average) ≥ 1yr": "29,142",
+            "31 Dec 2025 (average)": "215,722"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "– Own funds 186,580",
+          "values": {
+            "value by < 6 months": "—",
+            "31 Dec 2025 residual maturity to < 1yr": "—",
+            "31 Dec 2025 (average) ≥ 1yr": "29,142",
+            "31 Dec 2025 (average)": "215,722"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "Retail deposits",
+          "values": {
+            "value by < 6 months": "899,863",
+            "31 Dec 2025 residual maturity to < 1yr": "1,424",
+            "31 Dec 2025 (average) ≥ 1yr": "2,375",
+            "31 Dec 2025 (average)": "833,131"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "– Stable deposits",
+          "values": {
+            "value by < 6 months": "394,419",
+            "31 Dec 2025 residual maturity to < 1yr": "47",
+            "31 Dec 2025 (average) ≥ 1yr": "1",
+            "31 Dec 2025 (average)": "374,704"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "– Less stable deposits",
+          "values": {
+            "value by < 6 months": "505,444",
+            "31 Dec 2025 residual maturity to < 1yr": "1,377",
+            "31 Dec 2025 (average) ≥ 1yr": "2,374",
+            "31 Dec 2025 (average)": "458,427"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Wholesale funding:",
+          "values": {
+            "value by < 6 months": "1,199,160",
+            "31 Dec 2025 residual maturity to < 1yr": "39,089",
+            "31 Dec 2025 (average) ≥ 1yr": "155,334",
+            "31 Dec 2025 (average)": "563,522"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "– Operational deposits",
+          "values": {
+            "value by < 6 months": "268,777",
+            "31 Dec 2025 residual maturity to < 1yr": "—",
+            "31 Dec 2025 (average) ≥ 1yr": "—",
+            "31 Dec 2025 (average)": "134,389"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "– Other wholesale funding",
+          "values": {
+            "value by < 6 months": "930,383",
+            "31 Dec 2025 residual maturity to < 1yr": "39,089",
+            "31 Dec 2025 (average) ≥ 1yr": "155,334",
+            "31 Dec 2025 (average)": "429,133"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Interdependent liabilities",
+          "values": {
+            "value by < 6 months": "8,982",
+            "31 Dec 2025 residual maturity to < 1yr": "—",
+            "31 Dec 2025 (average) ≥ 1yr": "—",
+            "31 Dec 2025 (average)": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "Other liabilities: 1,852",
+          "values": {
+            "value by < 6 months": "226,098",
+            "31 Dec 2025 residual maturity to < 1yr": "235",
+            "31 Dec 2025 (average) ≥ 1yr": "9,039",
+            "31 Dec 2025 (average)": "8,629"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "– NSFR derivative liabilities 1,852 above categories",
+          "values": {
+            "value by < 6 months": "226,098",
+            "31 Dec 2025 residual maturity to < 1yr": "235",
+            "31 Dec 2025 (average) ≥ 1yr": "9,039",
+            "31 Dec 2025 (average)": "8,629"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

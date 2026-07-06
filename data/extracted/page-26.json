@@ -1,0 +1,154 @@
+{
+  "page": 26,
+  "prose": "14 Total available stable funding (‘ASF’) 1,523,407\nRequired stable funding (‘RSF’) Items\n15 Total high-quality liquid assets (‘HQLA’) 67,798\n16 Deposits held at other financial institutions for operational\npurposes 591 — — 296\n17 Performing loans and securities: 531,192 99,530 806,162 824,970\n18 – Performing securities financing transactions with financial\ncustomers collateralised by Level 1 HQLA subject to 0%\n168,066 7,406 3,338 13,947\nhaircut\n19 – Performing securities financing transactions with financial\ncustomers collateralised by other assets and loans and\n88,863 6,147 7,223 19,402\nadvances to financial institutions\n20 – Performing loans to non-financial corporate clients, loans to\nretail and small business customers, and loans to\n143,943 54,110 267,634 329,340\nsovereigns, and PSEs\n21 – of which: With a risk weight of less than or equal to 35%\n2,291 1,690 22,680 23,862\nunder the Basel II standardised approach for credit risk\n22 – Performing residential mortgages 8,992 7,629 348,177 243,710\n23 – of which: With a risk weight of less than or equal to 35%\nunder the Basel II standardised approach for credit risk 6,217 6,173 306,117 205,843\n24 – Other loans and securities that are not in default and do not\nqualify as HQLA, including exchange-traded equities and\ntrade finance on-balance sheet products 121,328 24,238 179,790 218,571\n25 Interdependent assets — — 4,347 —\n26 Other assets: 193,348 41 89,880 132,550\n27 – Physical traded commodities 14,306 12,160\n28 – Assets posted as initial margin for derivative contracts and\ncontributions to default funds of CCPs 35,032 — — 29,777\n30 – NSFR derivative liabilities before deduction of variation\nmargin posted 92,569 — — 4,830\n31 – All other assets not included in the above categories 65,747 41 75,574 85,783\n32 Off-balance sheet items 182,151 90,206 656,639 38,877\n33 Total RSF 1,064,491\n34 Net stable funding ratio (%) 143",
+  "tables": [
+    {
+      "caption": "Table 15: Net stable funding ratio (UK LIQ2) (continued)",
+      "columns": [
+        {
+          "x": 380.3436823076923,
+          "header": "Unweighted value by < 6 months",
+          "unit": "$m"
+        },
+        {
+          "x": 442.58422076923074,
+          "header": "31 Dec 2024 residual maturity (average) 6 months to < 1yr",
+          "unit": "$m"
+        },
+        {
+          "x": 497.3394344444444,
+          "header": "31 Dec 2024 1yr ≥",
+          "unit": "$m"
+        },
+        {
+          "x": 552.0937635483872,
+          "header": "31 Dec 2024 Weighted value (average)",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "Available stable funding (‘ASF’) items Capital items and instruments 183,355",
+          "values": {
+            "Unweighted value by < 6 months": "40",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "234",
+            "31 Dec 2024 1yr ≥": "29,219",
+            "31 Dec 2024 Weighted value (average)": "212,569"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "– Own funds 183,355",
+          "values": {
+            "Unweighted value by < 6 months": "40",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "234",
+            "31 Dec 2024 1yr ≥": "29,219",
+            "31 Dec 2024 Weighted value (average)": "212,569"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "Retail deposits",
+          "values": {
+            "Unweighted value by < 6 months": "845,389",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "351",
+            "31 Dec 2024 1yr ≥": "990",
+            "31 Dec 2024 Weighted value (average)": "779,605"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "– Stable deposits",
+          "values": {
+            "Unweighted value by < 6 months": "351,341",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "71",
+            "31 Dec 2024 1yr ≥": "1",
+            "31 Dec 2024 Weighted value (average)": "333,806"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "– Less stable deposits",
+          "values": {
+            "Unweighted value by < 6 months": "494,048",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "280",
+            "31 Dec 2024 1yr ≥": "989",
+            "31 Dec 2024 Weighted value (average)": "445,799"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Wholesale funding:",
+          "values": {
+            "Unweighted value by < 6 months": "1,139,335",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "42,884",
+            "31 Dec 2024 1yr ≥": "143,605",
+            "31 Dec 2024 Weighted value (average)": "525,447"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "– Operational deposits",
+          "values": {
+            "Unweighted value by < 6 months": "236,022",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "4",
+            "31 Dec 2024 1yr ≥": "—",
+            "31 Dec 2024 Weighted value (average)": "118,013"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "– Other wholesale funding",
+          "values": {
+            "Unweighted value by < 6 months": "903,313",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "42,880",
+            "31 Dec 2024 1yr ≥": "143,605",
+            "31 Dec 2024 Weighted value (average)": "407,434"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "10",
+          "label": "Interdependent liabilities",
+          "values": {
+            "Unweighted value by < 6 months": "3,681",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "—",
+            "31 Dec 2024 1yr ≥": "—",
+            "31 Dec 2024 Weighted value (average)": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "11",
+          "label": "Other liabilities: 2,775",
+          "values": {
+            "Unweighted value by < 6 months": "241,996",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "317",
+            "31 Dec 2024 1yr ≥": "5,789",
+            "31 Dec 2024 Weighted value (average)": "5,786"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "12",
+          "label": "– NSFR derivative liabilities 2,775 above categories",
+          "values": {
+            "Unweighted value by < 6 months": "241,996",
+            "31 Dec 2024 residual maturity (average) 6 months to < 1yr": "317",
+            "31 Dec 2024 1yr ≥": "5,789",
+            "31 Dec 2024 Weighted value (average)": "5,786"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

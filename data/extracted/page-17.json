@@ -1,0 +1,140 @@
+{
+  "page": 17,
+  "prose": "1 From 30 June 2025, the regulatory valuation of tier 2 capital includes the associated accrued interest.\n† The references (a)–(q) identify balance sheet components in ‘Table 2: Reconciliation of regulatory own funds to balance sheet in the audited financial statements\n(UK CC2)’, which are used in the calculation of regulatory capital. This table shows how they contribute to the regulatory capital calculation. Their contribution\nmay differ from their accounting value in Table 2 as a result of adjustment or analysis to apply regulatory definitions of capital.\nAt 31 December 2025, our CET1 capital ratio remained at 14.9%, – a 0.2 percentage point decrease due to the loss on our portfolio of\nunchanged from 31 December 2024. The increase in CET1 capital of home and certain other loans in France under hold-to-collect-and-\n$7.7bn was offset by an increase in RWAs of $50.3bn. The key sell, measured at FVOCI in 1Q25, which was partly offset by PRA\ndrivers of the movements within the CET1 ratio during the year were: waivers granted for the exclusion of operational risk RWAs in\n2Q25; and\n– a 0.5 percentage point increase from capital generation, mainly\n– a 0.4 percentage point decrease due to an increase in RWAs,\nthrough regulatory profits net of dividends and share buy-backs.\nmainly driven by organic balance sheet growth.\nShare buy-backs were paused following the announcement of the\nprivatisation of Hang Seng Bank; Our Pillar 2A requirement at 31 December 2025, as per the PRA’s\n– a 0.1 percentage point increase in the fair value of hold-to-collect- Individual Capital Requirement based on a point-in-time assessment,\nand-sell debt instruments, following a decrease in yields, and the was equivalent to 2.5% of RWAs, of which 1.4% must be met by\nnet impact from foreign exchange fluctuations, partly offset by CET1. Throughout 2025 we complied with the PRA’s regulatory\nregulatory deductions; capital adequacy requirement.",
+  "tables": [
+    {
+      "caption": "Table 6: Composition of Regulatory own funds¹ (UK CC1) (continued)",
+      "columns": [
+        {
+          "x": 506.1464292857143,
+          "header": "31 Dec 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 551.8948542857144,
+          "header": "31 Dec 2024",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "61",
+          "label": "Common equity tier 1 (as a percentage of total risk exposure amount)",
+          "values": {
+            "31 Dec 2025": "14.9",
+            "31 Dec 2024": "14.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "62",
+          "label": "Tier 1 (as a percentage of total risk exposure amount)",
+          "values": {
+            "31 Dec 2025": "17.3",
+            "31 Dec 2024": "17.2"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "63",
+          "label": "Total capital (as a percentage of total risk exposure amount)",
+          "values": {
+            "31 Dec 2025": "20.5",
+            "31 Dec 2024": "20.6"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "",
+          "values": {
+            "31 Dec 2025": "11.1",
+            "31 Dec 2024": "11.1"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "65",
+          "label": "percentage of risk exposure amount) – capital conservation buffer requirement",
+          "values": {
+            "31 Dec 2025": "2.5",
+            "31 Dec 2024": "2.5"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "66",
+          "label": "– countercyclical buffer requirement",
+          "values": {
+            "31 Dec 2025": "0.7",
+            "31 Dec 2024": "0.7"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "67a",
+          "label": "– Global systemically important institution (‘G-SII’) buffer",
+          "values": {
+            "31 Dec 2025": "2.0",
+            "31 Dec 2024": "2.0"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "68",
+          "label": "Common equity tier 1 available to meet buffers",
+          "values": {
+            "31 Dec 2025": "9.0",
+            "31 Dec 2024": "8.9"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "Amounts below the threshold for deduction (before risk weighting) not have a significant investment in those entities (amount below 10% threshold and net of eligible short positions)",
+          "values": {
+            "31 Dec 2025": "5,756",
+            "31 Dec 2024": "3,497"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "has a significant investment in those entities (amount below 17.65% thresholds and net of eligible short positions)",
+          "values": {
+            "31 Dec 2025": "14,637",
+            "31 Dec 2024": "13,997"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "",
+          "label": "where the conditions in Article 38 (3) CRR II are met)",
+          "values": {
+            "31 Dec 2025": "4,028",
+            "31 Dec 2024": "4,364"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "77",
+          "label": "Cap on inclusion of credit risk adjustments in T2 under standardised approach",
+          "values": {
+            "31 Dec 2025": "2,555",
+            "31 Dec 2024": "2,251"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "79",
+          "label": "Cap for inclusion of credit risk adjustments in T2 under internal ratings-based approach",
+          "values": {
+            "31 Dec 2025": "3,067",
+            "31 Dec 2024": "3,015"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "page": 20,
+  "prose": "The table below shows the drivers of the quarterly movements of credit risk RWAs, excluding counterparty credit risk and including free\ndeliveries under the IRB approach. The table also excludes securitisation positions, equity exposures and non-credit obligation assets. Foreign\nexchange movements in this disclosure are computed by retranslating the RWAs into US dollars based on the underlying transactional\ncurrencies, and other movements in the table are presented on a constant currency basis.\nExcluding the $0.4bn foreign exchange movements, RWAs under the businesses, and a UK transaction where certain credit risk was\nIRB approach decreased by $11.6bn during 4Q25. This was primarily transferred to a third party. A further decrease was from asset quality\ndue to credit risk parameter refinements including methodology movements mainly due to credit risk mitigations and portfolio mix\nchanges to our undrawn exposures within the UK and CIB changes in our Hong Kong and CIB businesses.\nThe table below shows the drivers of the quarterly movements of counterparty credit risk RWAs under the internal model method approach.\nRWAs under the internal model method ('IMM') increased by $0.6bn in 4Q25, primarily due to organic movements on account of mark-to-\nmarket volatility and risk parameter refinements in our CIB business.\nThe table below shows the drivers of the quarterly movements of market risk RWAs under IMA, split by VaR, SVaR, IRC and other models.\nRows 1a/1b and 8a/8b represent differences between RWAs reported for the period and RWAs calculated on a spot basis at the end of the\nreporting period, except RWAs in ‘Other’, which includes components that are calculated on an average basis.",
+  "tables": [
+    {
+      "caption": "Table 8: RWA flow statements of credit risk exposures under the IRB approach (CR8)",
+      "columns": [
+        {
+          "x": 394.5345488888889,
+          "header": "31 Dec 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 446.46110111111113,
+          "header": "30 Sep 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 497.78010333333333,
+          "header": "30 Jun 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 549.3128788888889,
+          "header": "31 Mar 2025",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "Quarter ended RWAs at the opening period",
+          "values": {
+            "31 Dec 2025": "471,315",
+            "30 Sep 2025": "477,551",
+            "30 Jun 2025": "467,474",
+            "31 Mar 2025": "454,249"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Asset size",
+          "values": {
+            "31 Dec 2025": "2,389",
+            "30 Sep 2025": "727",
+            "30 Jun 2025": "7,171",
+            "31 Mar 2025": "4,744"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "Asset quality",
+          "values": {
+            "31 Dec 2025": "(3,387)",
+            "30 Sep 2025": "(460)",
+            "30 Jun 2025": "(1,418)",
+            "31 Mar 2025": "4,779"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "Model updates",
+          "values": {
+            "31 Dec 2025": "(17)",
+            "30 Sep 2025": "(1,458)",
+            "30 Jun 2025": "—",
+            "31 Mar 2025": "49"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "Methodology and policy",
+          "values": {
+            "31 Dec 2025": "(10,538)",
+            "30 Sep 2025": "(3,271)",
+            "30 Jun 2025": "(7,722)",
+            "31 Mar 2025": "(1,216)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "6",
+          "label": "Acquisitions and disposals",
+          "values": {
+            "31 Dec 2025": "(36)",
+            "30 Sep 2025": "—",
+            "30 Jun 2025": "—",
+            "31 Mar 2025": "—"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "7",
+          "label": "Foreign exchange movements",
+          "values": {
+            "31 Dec 2025": "379",
+            "30 Sep 2025": "(1,774)",
+            "30 Jun 2025": "12,046",
+            "31 Mar 2025": "4,869"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "RWAs at the closing period",
+          "values": {
+            "31 Dec 2025": "460,105",
+            "30 Sep 2025": "471,315",
+            "30 Jun 2025": "477,551",
+            "31 Mar 2025": "467,474"
+          },
+          "is_section": false
+        }
+      ]
+    },
+    {
+      "caption": "Table 9:RWA flow statements of CCR exposures under IMM (CCR7)",
+      "columns": [
+        {
+          "x": 396.91466,
+          "header": "31 Dec 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 449.577825,
+          "header": "30 Sep 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 500.35132666666664,
+          "header": "30 Jun 2025",
+          "unit": "$m"
+        },
+        {
+          "x": 552.7519900000001,
+          "header": "31 Mar 2025",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1",
+          "label": "Quarter ended RWAs at the opening period",
+          "values": {
+            "31 Dec 2025": "14,381",
+            "30 Sep 2025": "15,199",
+            "30 Jun 2025": "12,429",
+            "31 Mar 2025": "13,771"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Asset size",
+          "values": {
+            "31 Dec 2025": "410",
+            "30 Sep 2025": "(720)",
+            "30 Jun 2025": "2,247",
+            "31 Mar 2025": "(1,120)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "3",
+          "label": "Credit quality of counterparties",
+          "values": {
+            "31 Dec 2025": "(28)",
+            "30 Sep 2025": "(35)",
+            "30 Jun 2025": "45",
+            "31 Mar 2025": "30"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "5",
+          "label": "Methodology and policy (IMM only)",
+          "values": {
+            "31 Dec 2025": "248",
+            "30 Sep 2025": "(63)",
+            "30 Jun 2025": "478",
+            "31 Mar 2025": "(252)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "9",
+          "label": "RWAs at the closing period",
+          "values": {
+            "31 Dec 2025": "15,011",
+            "30 Sep 2025": "14,381",
+            "30 Jun 2025": "15,199",
+            "31 Mar 2025": "12,429"
+          },
+          "is_section": false
+        }
+      ]
+    },
+    {
+      "caption": "Table 10: RWA flow statements of market risk exposures under IMA (MR2-B)",
+      "columns": [
+        {
+          "x": 278.5705233333333,
+          "header": "VaR 5,226",
+          "unit": "$m"
+        },
+        {
+          "x": 333.1656566666667,
+          "header": "Stressed VaR 7,253",
+          "unit": "$m"
+        },
+        {
+          "x": 388.62849125,
+          "header": "IRC 4,568",
+          "unit": "$m"
+        },
+        {
+          "x": 442.50699000000003,
+          "header": "Other 1,770",
+          "unit": "$m"
+        },
+        {
+          "x": 497.57385666666664,
+          "header": "Total RWAs 18,817",
+          "unit": "$m"
+        },
+        {
+          "x": 552.3182566666667,
+          "header": "Total own funds requirements 1,505",
+          "unit": "$m"
+        }
+      ],
+      "rows": [
+        {
+          "ref": "1a",
+          "label": "Regulatory adjustment",
+          "values": {
+            "VaR 5,226": "(3,236)",
+            "Stressed VaR 7,253": "(4,442)",
+            "IRC 4,568": "(150)",
+            "Other 1,770": "—",
+            "Total RWAs 18,817": "(7,828)",
+            "Total own funds requirements 1,505": "(626)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "1b",
+          "label": "RWAs at the previous quarter end (end of day)",
+          "values": {
+            "VaR 5,226": "1,990",
+            "Stressed VaR 7,253": "2,811",
+            "IRC 4,568": "4,418",
+            "Other 1,770": "1,770",
+            "Total RWAs 18,817": "10,989",
+            "Total own funds requirements 1,505": "879"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Movement in risk levels",
+          "values": {
+            "VaR 5,226": "(304)",
+            "Stressed VaR 7,253": "158",
+            "IRC 4,568": "(224)",
+            "Other 1,770": "173",
+            "Total RWAs 18,817": "(197)",
+            "Total own funds requirements 1,505": "(16)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "4",
+          "label": "Methodology and policy",
+          "values": {
+            "VaR 5,226": "—",
+            "Stressed VaR 7,253": "—",
+            "IRC 4,568": "—",
+            "Other 1,770": "51",
+            "Total RWAs 18,817": "51",
+            "Total own funds requirements 1,505": "4"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8a",
+          "label": "RWAs at the end of the reporting period (end of day)",
+          "values": {
+            "VaR 5,226": "1,686",
+            "Stressed VaR 7,253": "2,969",
+            "IRC 4,568": "4,194",
+            "Other 1,770": "1,994",
+            "Total RWAs 18,817": "10,843",
+            "Total own funds requirements 1,505": "867"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8b",
+          "label": "Regulatory adjustment",
+          "values": {
+            "VaR 5,226": "4,011",
+            "Stressed VaR 7,253": "6,492",
+            "IRC 4,568": "962",
+            "Other 1,770": "—",
+            "Total RWAs 18,817": "11,465",
+            "Total own funds requirements 1,505": "918"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "RWAs at 31 Dec 2025",
+          "values": {
+            "VaR 5,226": "5,697",
+            "Stressed VaR 7,253": "9,461",
+            "IRC 4,568": "5,156",
+            "Other 1,770": "1,994",
+            "Total RWAs 18,817": "22,308",
+            "Total own funds requirements 1,505": "1,785"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "1",
+          "label": "RWAs at 1 Jul 2025",
+          "values": {
+            "VaR 5,226": "5,147",
+            "Stressed VaR 7,253": "10,448",
+            "IRC 4,568": "5,302",
+            "Other 1,770": "2,141",
+            "Total RWAs 18,817": "23,038",
+            "Total own funds requirements 1,505": "1,843"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "1a",
+          "label": "Regulatory adjustment",
+          "values": {
+            "VaR 5,226": "(3,598)",
+            "Stressed VaR 7,253": "(8,164)",
+            "IRC 4,568": "(879)",
+            "Other 1,770": "—",
+            "Total RWAs 18,817": "(12,641)",
+            "Total own funds requirements 1,505": "(1,011)"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "1b",
+          "label": "RWAs at the previous quarter end (end of day)",
+          "values": {
+            "VaR 5,226": "1,549",
+            "Stressed VaR 7,253": "2,284",
+            "IRC 4,568": "4,423",
+            "Other 1,770": "2,141",
+            "Total RWAs 18,817": "10,397",
+            "Total own funds requirements 1,505": "832"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "2",
+          "label": "Movement in risk levels",
+          "values": {
+            "VaR 5,226": "441",
+            "Stressed VaR 7,253": "527",
+            "IRC 4,568": "(5)",
+            "Other 1,770": "(371)",
+            "Total RWAs 18,817": "592",
+            "Total own funds requirements 1,505": "47"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8a",
+          "label": "RWAs at the end of the reporting period (end of day)",
+          "values": {
+            "VaR 5,226": "1,990",
+            "Stressed VaR 7,253": "2,811",
+            "IRC 4,568": "4,418",
+            "Other 1,770": "1,770",
+            "Total RWAs 18,817": "10,989",
+            "Total own funds requirements 1,505": "879"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8b",
+          "label": "Regulatory adjustment",
+          "values": {
+            "VaR 5,226": "3,236",
+            "Stressed VaR 7,253": "4,442",
+            "IRC 4,568": "150",
+            "Other 1,770": "—",
+            "Total RWAs 18,817": "7,828",
+            "Total own funds requirements 1,505": "626"
+          },
+          "is_section": false
+        },
+        {
+          "ref": "8",
+          "label": "RWAs at 30 Sep 2025",
+          "values": {
+            "VaR 5,226": "5,226",
+            "Stressed VaR 7,253": "7,253",
+            "IRC 4,568": "4,568",
+            "Other 1,770": "1,770",
+            "Total RWAs 18,817": "18,817",
+            "Total own funds requirements 1,505": "1,505"
+          },
+          "is_section": false
+        }
+      ]
+    }
+  ]
+}
