@@ -4,6 +4,19 @@ An agentic RAG system over HSBC's public **Pillar 3 Disclosures (31 December 202
 that answers capital / leverage / liquidity questions **grounded in the filing** — and,
 crucially, returns the *right number*, not just a plausibly-sourced one.
 
+## First run (fresh clone)
+
+The source PDF is included. The vector stores are not (git-ignored, regenerable),
+so build them once:
+
+```bash
+pip install -r requirements.txt
+jupyter nbconvert --to notebook --execute baseline_rag.ipynb   # builds pillar3_baseline
+python chunking.py                                             # builds pillar3_structured
+```
+
+Then run the demo with `streamlit run app.py`, or score with `python eval.py`.
+
 ## The result in one table
 
 Ten labelled questions (`eval_set.json`), each carrying a known trap (row conflation,
