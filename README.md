@@ -72,11 +72,11 @@ the four residuals, each a distinct reasoning class:
 |---|---|---|
 | Q4 | operands retrieved, never summed | **compute** in `generate` (`38,490 + 42,380 = 80,870 $m`) |
 | Q5 | caveat retrieved, never reasoned | **synthesis** ("same on both transitional & end-point bases") |
-| Q8 | right chunk exists but ranks below top-4 | **self-check → keyword rewrite / multi-hop** surfaces the Article-92 chunk |
+| Q8 | right chunk exists but ranks below top-4 | the **regulation-citation guard** fires **self-check → keyword rewrite / multi-hop** to surface the Article-92 chunk |
 | Q9 | figure and currency live on different pages | **multi-chunk accumulation** across hops |
 
 Loops are bounded (`MAX_REWRITES=2`, `MAX_RETRIES=2`) and verified never exceeded:
-8 of 10 questions settle in a single pass; only Q4 and Q8 exercise the loop.
+in the saved run, 8 of 10 questions settle in a single pass; only Q4 and Q8 exercise the loop.
 
 ## Architecture
 
