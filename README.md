@@ -171,6 +171,7 @@ rewrite, compute, and self-verify in real time. Requires the extra dependency
 
 | Path | What |
 |---|---|
+| `data/pillar3-2025.pdf` | Source filing — HSBC's public Pillar 3 Disclosures at 31 Dec 2025 |
 | `baseline_rag.ipynb` | Stage 1 — naive baseline (control), builds `pillar3_baseline` |
 | `chunking.py` | Stage 2 — structure-aware chunker, builds `pillar3_structured` |
 | `build_agentic_nb.py` / `agentic_rag.ipynb` | Stage 3 — the LangGraph agent (regenerable) |

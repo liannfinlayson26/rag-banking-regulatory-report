@@ -8,8 +8,9 @@ venv/
 # Vector store
 chroma_db/
 
-# Downloaded source document(s)
+# Downloaded source document(s) — ignore PDFs, but keep the canonical source filing
 data/*.pdf
+!data/pillar3-2025.pdf
 
 # Python caches
 __pycache__/
